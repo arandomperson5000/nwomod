@@ -1224,6 +1224,99 @@ bitmapfont = {
 		color = 0xff000000	
 	}
 
+############     NWO FONTS 
+	bitmapfont = {
+		name = "nwo_14text_bold" # NewsHeader Arial12_bold_black 
+		fontname = "nwo_14text_bold" # Arial14chi
+		color = 0xff000000
+	}
+	
+	bitmapfont = {
+		name = "nwo_14text" # Arial12_bold NewsContent Arial12_black Arial12 news_18_black
+		fontname = "nwo_14text" # Arial14chi
+		color = 0xffffffff
+		
+		colorcodes = {
+			W = { 255 255 255 }
+			B = { 0 0 255 }
+			G = { 0 159 3 }
+			R = { 255 50 50 }
+			b = { 0 0 0 }
+			g = { 176 176 176 }
+			Y = { 255 189 0 }
+		}
+	}
+	
+	bitmapfont = {
+		name = "nwo_16text" # vic_18 vic_18_black_bold vic_18_bold vic_18_black
+		fontname = "nwo_16text" # Arial16chi
+		color = 0xff000000	
+
+		colorcodes = {
+			W = { 255 255 255 }
+			B = { 0 0 255 }
+			G = { 0 159 3 }
+			R = { 255 50 50 }
+			b = { 0 0 0 }
+			g = { 176 176 176 }
+			Y = { 255 189 0 }
+		}
+
+	}
+
+	bitmapfont = {
+		name = "nwo_16white" # vic_18_headline 
+		fontname = "nwo_16white" # Arial16chi
+		color = 0xffffffff	
+	}
+	
+
+	bitmapfont = {
+		name = "nwo_20text" # vic_22_bold vic_22_black_bold vic_22 vic_22_bl vic_22_black news_22_black
+		fontname = "nwo_20text" # Arial20chi
+		color = 0xff000000
+		
+		colorcodes = {
+			W = { 255 255 255 }
+			B = { 0 0 255 }
+			G = { 0 159 3 }
+			R = { 255 50 50 }
+			b = { 0 0 0 }
+			g = { 176 176 176 }
+			Y = { 255 189 0 }
+		}
+	}
+
+	bitmapfont = {
+		name = "nwo_20white" # vic_headline
+		fontname = "nwo_20white" # Arial20chi
+		color = 0xffffffff	
+	}
+
+	bitmapfont = {
+		name = "nwo_24text" # allies_country
+		fontname = "nwo_24text" # Arial24chi
+		color = 0xff111188
+		effect = yes
+	}
+	
+	bitmapfont = {
+		name = "nwo_24white_header" # vic_headline2 AnimatedMapText vic_32_black vic_32
+		fontname = "nwo_24white_header" # Arial20chi
+		color = 0xffffffff
+	}
+	
+	bitmapfont = {
+		name = "nwo_30white_header" # old_english mapfont_56_small
+		fontname = "nwo_30white_header"
+		color = 0xff333333
+	}
+	
+	bitmapfont = {
+		name = "nwo_36white_header" # tahoma_60 mapfont_56
+		fontname = "nwo_36white_header" # Arial56chi
+		color = 0xff333333
+	}
 
 }
 
