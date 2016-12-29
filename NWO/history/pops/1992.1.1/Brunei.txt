@@ -1,104 +1,39 @@
 #Brunei - Brunei (253000/63250 POPS)
 1393 = {
-	officers = {
-		culture = malay
-		religion =  sunni 
-		size = 151
-	 } 
-	officers = {
-		culture = malay
-		religion = secularism
-		size = 3
-	 } 
 	soldiers = {
 		culture = malay
 		religion =  sunni 
-		size = 2893
-	 } 
-	soldiers = {
-		culture = malay
-		religion = secularism
-		size = 59
+		size = 2953
 	 } 
 	aristocrats = {
 		culture = malay
 		religion =  sunni 
-		size = 2479
-	 } 
-	aristocrats = {
-		culture = malay
-		religion = secularism
-		size = 50
-	 } 
-	bureaucrats = {
-		culture = malay
-		religion =  sunni 
-		size = 123
-	 } 
-	bureaucrats = {
-		culture = malay
-		religion = secularism
-		size = 2
-	 } 
-	capitalists = {
-		culture = malay
-		religion =  sunni 
-		size = 309
-	 } 
-	capitalists = {
-		culture = malay
-		religion = secularism
-		size = 6
+		size = 2530
 	 } 
 	clergymen = {
 		culture = malay
 		religion =  sunni 
-		size = 1239
-	 } 
-	clergymen = {
-		culture = malay
-		religion = secularism
-		size = 25
+		size = 1265
 	 } 
 	clerks = {
 		culture = malay
 		religion =  sunni 
-		size = 1670
-	 } 
-	clerks = {
-		culture = malay
-		religion = secularism
-		size = 34
+		size = 1705
 	 } 
 	artisans = {
 		culture = malay
 		religion =  sunni 
-		size = 1587
-	 } 
-	artisans = {
-		culture = malay
-		religion = secularism
-		size = 32
+		size = 1620
 	 } 
 	craftsmen = {
 		culture = malay
 		religion =  sunni 
-		size = 5014
-	 } 
-	craftsmen = {
-		culture = malay
-		religion = secularism
-		size = 102
+		size = 5117
 	 } 
 	farmers = {
 		culture = malay
 		religion =  sunni 
-		size = 27855
-	 } 
-	farmers = {
-		culture = malay
-		religion = secularism
-		size = 568
+		size = 28424
 	 } 
 	farmers = {
 		culture = chinese

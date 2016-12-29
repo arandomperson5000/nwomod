@@ -3,22 +3,12 @@
 	clergymen = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 19646
-	 } 
-	clergymen = {
-		culture = sunni_arab
-		religion = secularism
-		size = 818
+		size = 20465
 	 } 
 	farmers = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 785856
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion = secularism
-		size = 32744
+		size = 818600
 	 } 
 	farmers = {
 		culture = white_anglo
@@ -43,22 +33,12 @@
 	farmers = {
 		culture = indian_muslim
 		religion =  sunni 
-		size = 58939
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion = secularism
-		size = 2455
+		size = 61395
 	 } 
 	farmers = {
 		culture = bengali
 		religion =  sunni 
-		size = 19646
-	 } 
-	farmers = {
-		culture = bengali
-		religion = secularism
-		size = 818
+		size = 20465
 	 } 
 	farmers = {
 		culture = filipino
@@ -73,22 +53,12 @@
 	farmers = {
 		culture = indonesian
 		religion =  sunni 
-		size = 19646
-	 } 
-	farmers = {
-		culture = indonesian
-		religion = secularism
-		size = 818
+		size = 20465
 	 } 
 	farmers = {
 		culture = turkish
 		religion =  sunni 
-		size = 4911
-	 } 
-	farmers = {
-		culture = turkish
-		religion = secularism
-		size = 204
+		size = 5116
 	 } 
 }
 #Jidda - Bahah (243000/60750 POPS)
@@ -106,22 +76,12 @@
 	officers = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 11927
-	 } 
-	officers = {
-		culture = sunni_arab
-		religion = secularism
-		size = 496
+		size = 12424
 	 } 
 	soldiers = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 35895
-	 } 
-	soldiers = {
-		culture = sunni_arab
-		religion = secularism
-		size = 1495
+		size = 37391
 	 } 
 	soldiers = {
 		culture = indian
@@ -136,22 +96,12 @@
 	soldiers = {
 		culture = indian_muslim
 		religion =  sunni 
-		size = 3499
-	 } 
-	soldiers = {
-		culture = indian_muslim
-		religion = secularism
-		size = 145
+		size = 3645
 	 } 
 	soldiers = {
 		culture = bengali
 		religion =  sunni 
-		size = 1166
-	 } 
-	soldiers = {
-		culture = bengali
-		religion = secularism
-		size = 48
+		size = 1215
 	 } 
 	soldiers = {
 		culture = filipino
@@ -166,22 +116,7 @@
 	soldiers = {
 		culture = indonesian
 		religion =  sunni 
-		size = 1166
-	 } 
-	soldiers = {
-		culture = indonesian
-		religion = secularism
-		size = 48
-	 } 
-	soldiers = {
-		culture = turkish
-		religion =  sunni 
-		size = 290
-	 } 
-	soldiers = {
-		culture = turkish
-		religion = secularism
-		size = 12
+		size = 1215
 	 } 
 }
 #Medina - Medina (1051000/262750 POPS)
@@ -189,22 +124,12 @@
 	clergymen = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 5044
-	 } 
-	clergymen = {
-		culture = sunni_arab
-		religion = secularism
-		size = 210
+		size = 5255
 	 } 
 	farmers = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 201792
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion = secularism
-		size = 8408
+		size = 210200
 	 } 
 	farmers = {
 		culture = white_anglo
@@ -229,22 +154,12 @@
 	farmers = {
 		culture = indian_muslim
 		religion =  sunni 
-		size = 15134
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion = secularism
-		size = 630
+		size = 15765
 	 } 
 	farmers = {
 		culture = bengali
 		religion =  sunni 
-		size = 5044
-	 } 
-	farmers = {
-		culture = bengali
-		religion = secularism
-		size = 210
+		size = 5255
 	 } 
 	farmers = {
 		culture = filipino
@@ -259,22 +174,12 @@
 	farmers = {
 		culture = indonesian
 		religion =  sunni 
-		size = 5044
-	 } 
-	farmers = {
-		culture = indonesian
-		religion = secularism
-		size = 210
+		size = 5255
 	 } 
 	farmers = {
 		culture = turkish
 		religion =  sunni 
-		size = 1260
-	 } 
-	farmers = {
-		culture = turkish
-		religion = secularism
-		size = 52
+		size = 1313
 	 } 
 }
 #Tabuk - Tabuk (468000/117000 POPS)
@@ -282,22 +187,12 @@
 	clergymen = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 2246
-	 } 
-	clergymen = {
-		culture = sunni_arab
-		religion = secularism
-		size = 93
+		size = 2340
 	 } 
 	farmers = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 89856
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion = secularism
-		size = 3744
+		size = 93600
 	 } 
 	farmers = {
 		culture = white_anglo
@@ -322,22 +217,12 @@
 	farmers = {
 		culture = indian_muslim
 		religion =  sunni 
-		size = 6739
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion = secularism
-		size = 280
+		size = 7020
 	 } 
 	farmers = {
 		culture = bengali
 		religion =  sunni 
-		size = 2246
-	 } 
-	farmers = {
-		culture = bengali
-		religion = secularism
-		size = 93
+		size = 2340
 	 } 
 	farmers = {
 		culture = filipino
@@ -352,22 +237,7 @@
 	farmers = {
 		culture = indonesian
 		religion =  sunni 
-		size = 2246
-	 } 
-	farmers = {
-		culture = indonesian
-		religion = secularism
-		size = 93
-	 } 
-	farmers = {
-		culture = turkish
-		religion =  sunni 
-		size = 561
-	 } 
-	farmers = {
-		culture = turkish
-		religion = secularism
-		size = 23
+		size = 2340
 	 } 
 }
 #Abha - Asir (1132000/283000 POPS)
@@ -375,22 +245,12 @@
 	clergymen = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 5433
-	 } 
-	clergymen = {
-		culture = sunni_arab
-		religion = secularism
-		size = 226
+		size = 5660
 	 } 
 	farmers = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 21734
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion = secularism
-		size = 905
+		size = 22640
 	 } 
 	farmers = {
 		culture = white_anglo
@@ -420,22 +280,12 @@
 	farmers = {
 		culture = indian_muslim
 		religion =  sunni 
-		size = 16300
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion = secularism
-		size = 679
+		size = 16980
 	 } 
 	farmers = {
 		culture = bengali
 		religion =  sunni 
-		size = 5433
-	 } 
-	farmers = {
-		culture = bengali
-		religion = secularism
-		size = 226
+		size = 5660
 	 } 
 	farmers = {
 		culture = filipino
@@ -450,22 +300,12 @@
 	farmers = {
 		culture = indonesian
 		religion =  sunni 
-		size = 5433
-	 } 
-	farmers = {
-		culture = indonesian
-		religion = secularism
-		size = 226
+		size = 5660
 	 } 
 	farmers = {
 		culture = turkish
 		religion =  sunni 
-		size = 1358
-	 } 
-	farmers = {
-		culture = turkish
-		religion = secularism
-		size = 56
+		size = 1415
 	 } 
 }
 #Kaf - Jawf (260000/65000 POPS)
@@ -473,22 +313,12 @@
 	clergymen = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 1248
-	 } 
-	clergymen = {
-		culture = sunni_arab
-		religion = secularism
-		size = 52
+		size = 1300
 	 } 
 	farmers = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 49920
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion = secularism
-		size = 2080
+		size = 52000
 	 } 
 	farmers = {
 		culture = white_anglo
@@ -513,22 +343,12 @@
 	farmers = {
 		culture = indian_muslim
 		religion =  sunni 
-		size = 3744
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion = secularism
-		size = 156
+		size = 3900
 	 } 
 	farmers = {
 		culture = bengali
 		religion =  sunni 
-		size = 1248
-	 } 
-	farmers = {
-		culture = bengali
-		religion = secularism
-		size = 52
+		size = 1300
 	 } 
 	farmers = {
 		culture = filipino
@@ -543,22 +363,7 @@
 	farmers = {
 		culture = indonesian
 		religion =  sunni 
-		size = 1248
-	 } 
-	farmers = {
-		culture = indonesian
-		religion = secularism
-		size = 52
-	 } 
-	farmers = {
-		culture = turkish
-		religion =  sunni 
-		size = 312
-	 } 
-	farmers = {
-		culture = turkish
-		religion = secularism
-		size = 13
+		size = 1300
 	 } 
 }
 #Riyadh - Riyadh (4011000/1002750 POPS)
@@ -576,92 +381,47 @@
 	officers = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 8202
-	 } 
-	officers = {
-		culture = sunni_arab
-		religion = secularism
-		size = 341
+		size = 8544
 	 } 
 	soldiers = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 155857
-	 } 
-	soldiers = {
-		culture = sunni_arab
-		religion = secularism
-		size = 6494
+		size = 162352
 	 } 
 	aristocrats = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 33692
-	 } 
-	aristocrats = {
-		culture = sunni_arab
-		religion = secularism
-		size = 1403
+		size = 35096
 	 } 
 	bureaucrats = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 2887
-	 } 
-	bureaucrats = {
-		culture = sunni_arab
-		religion = secularism
-		size = 120
+		size = 3008
 	 } 
 	clergymen = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 19252
-	 } 
-	clergymen = {
-		culture = sunni_arab
-		religion = secularism
-		size = 802
+		size = 20055
 	 } 
 	clerks = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 24606
-	 } 
-	clerks = {
-		culture = sunni_arab
-		religion = secularism
-		size = 1025
+		size = 25632
 	 } 
 	artisans = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 23376
-	 } 
-	artisans = {
-		culture = sunni_arab
-		religion = secularism
-		size = 974
+		size = 24350
 	 } 
 	craftsmen = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 73820
-	 } 
-	craftsmen = {
-		culture = sunni_arab
-		religion = secularism
-		size = 3075
+		size = 76896
 	 } 
 	farmers = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 447669
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion = secularism
-		size = 18652
+		size = 466322
 	 } 
 	farmers = {
 		culture = indian
@@ -676,22 +436,12 @@
 	farmers = {
 		culture = indian_muslim
 		religion =  sunni 
-		size = 57758
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion = secularism
-		size = 2406
+		size = 60165
 	 } 
 	farmers = {
 		culture = bengali
 		religion =  sunni 
-		size = 19252
-	 } 
-	farmers = {
-		culture = bengali
-		religion = secularism
-		size = 802
+		size = 20055
 	 } 
 	farmers = {
 		culture = filipino
@@ -706,45 +456,20 @@
 	farmers = {
 		culture = indonesian
 		religion =  sunni 
-		size = 19252
-	 } 
-	farmers = {
-		culture = indonesian
-		religion = secularism
-		size = 802
+		size = 20055
 	 } 
 	farmers = {
 		culture = turkish
 		religion =  sunni 
-		size = 4812
-	 } 
-	farmers = {
-		culture = turkish
-		religion = secularism
-		size = 200
+		size = 5013
 	 } 
 }
 #Rafha - Northern Borders (189000/47250 POPS)
 1158 = {
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 907
-	 } 
-	clergymen = {
-		culture = sunni_arab
-		religion = secularism
-		size = 37
-	 } 
 	farmers = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 36288
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion = secularism
-		size = 1512
+		size = 37800
 	 } 
 	farmers = {
 		culture = white_anglo
@@ -769,22 +494,7 @@
 	farmers = {
 		culture = indian_muslim
 		religion =  sunni 
-		size = 2721
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion = secularism
-		size = 113
-	 } 
-	farmers = {
-		culture = bengali
-		religion =  sunni 
-		size = 907
-	 } 
-	farmers = {
-		culture = bengali
-		religion = secularism
-		size = 37
+		size = 2835
 	 } 
 	farmers = {
 		culture = filipino
@@ -796,48 +506,18 @@
 		religion = secularism
 		size = 37
 	 } 
-	farmers = {
-		culture = indonesian
-		religion =  sunni 
-		size = 907
-	 } 
-	farmers = {
-		culture = indonesian
-		religion = secularism
-		size = 37
-	 } 
-	farmers = {
-		culture = turkish
-		religion =  sunni 
-		size = 226
-	 } 
-	farmers = {
-		culture = turkish
-		religion = secularism
-		size = 9
-	 } 
 }
 #Halaban - Quasim (719000/179750 POPS)
 1159 = {
 	clergymen = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 3451
-	 } 
-	clergymen = {
-		culture = sunni_arab
-		religion = secularism
-		size = 143
+		size = 3595
 	 } 
 	farmers = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 138048
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion = secularism
-		size = 5752
+		size = 143800
 	 } 
 	farmers = {
 		culture = white_anglo
@@ -862,22 +542,12 @@
 	farmers = {
 		culture = indian_muslim
 		religion =  sunni 
-		size = 10353
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion = secularism
-		size = 431
+		size = 10785
 	 } 
 	farmers = {
 		culture = bengali
 		religion =  sunni 
-		size = 3451
-	 } 
-	farmers = {
-		culture = bengali
-		religion = secularism
-		size = 143
+		size = 3595
 	 } 
 	farmers = {
 		culture = filipino
@@ -892,22 +562,7 @@
 	farmers = {
 		culture = indonesian
 		religion =  sunni 
-		size = 3451
-	 } 
-	farmers = {
-		culture = indonesian
-		religion = secularism
-		size = 143
-	 } 
-	farmers = {
-		culture = turkish
-		religion =  sunni 
-		size = 862
-	 } 
-	farmers = {
-		culture = turkish
-		religion = secularism
-		size = 35
+		size = 3595
 	 } 
 }
 #Hail - Hail (353000/88250 POPS)
@@ -915,22 +570,12 @@
 	clergymen = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 1694
-	 } 
-	clergymen = {
-		culture = sunni_arab
-		religion = secularism
-		size = 70
+		size = 1765
 	 } 
 	farmers = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 67776
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion = secularism
-		size = 2824
+		size = 70600
 	 } 
 	farmers = {
 		culture = white_anglo
@@ -955,22 +600,12 @@
 	farmers = {
 		culture = indian_muslim
 		religion =  sunni 
-		size = 5083
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion = secularism
-		size = 211
+		size = 5295
 	 } 
 	farmers = {
 		culture = bengali
 		religion =  sunni 
-		size = 1694
-	 } 
-	farmers = {
-		culture = bengali
-		religion = secularism
-		size = 70
+		size = 1765
 	 } 
 	farmers = {
 		culture = filipino
@@ -985,22 +620,7 @@
 	farmers = {
 		culture = indonesian
 		religion =  sunni 
-		size = 1694
-	 } 
-	farmers = {
-		culture = indonesian
-		religion = secularism
-		size = 70
-	 } 
-	farmers = {
-		culture = turkish
-		religion =  sunni 
-		size = 423
-	 } 
-	farmers = {
-		culture = turkish
-		religion = secularism
-		size = 17
+		size = 1765
 	 } 
 }
 #Sharawrah - Najran (298000/74500 POPS)
@@ -1008,22 +628,12 @@
 	clergymen = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 1430
-	 } 
-	clergymen = {
-		culture = sunni_arab
-		religion = secularism
-		size = 59
+		size = 1490
 	 } 
 	farmers = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 57215
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion = secularism
-		size = 2383
+		size = 59599
 	 } 
 	farmers = {
 		culture = white_anglo
@@ -1048,22 +658,12 @@
 	farmers = {
 		culture = indian_muslim
 		religion =  sunni 
-		size = 4291
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion = secularism
-		size = 178
+		size = 4470
 	 } 
 	farmers = {
 		culture = bengali
 		religion =  sunni 
-		size = 1430
-	 } 
-	farmers = {
-		culture = bengali
-		religion = secularism
-		size = 59
+		size = 1490
 	 } 
 	farmers = {
 		culture = filipino
@@ -1078,22 +678,7 @@
 	farmers = {
 		culture = indonesian
 		religion =  sunni 
-		size = 1430
-	 } 
-	farmers = {
-		culture = indonesian
-		religion = secularism
-		size = 59
-	 } 
-	farmers = {
-		culture = turkish
-		religion =  sunni 
-		size = 357
-	 } 
-	farmers = {
-		culture = turkish
-		religion = secularism
-		size = 14
+		size = 1490
 	 } 
 }
 #Qatif - Eastern Region (1215000/303750 POPS)
@@ -1111,22 +696,12 @@
 	officers = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 4834
-	 } 
-	officers = {
-		culture = sunni_arab
-		religion = secularism
-		size = 201
+		size = 5036
 	 } 
 	soldiers = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 997
-	 } 
-	soldiers = {
-		culture = sunni_arab
-		religion = secularism
-		size = 41
+		size = 1039
 	 } 
 	soldiers = {
 		culture = indian
@@ -1176,22 +751,12 @@
 	farmers = {
 		culture = indian_muslim
 		religion =  sunni 
-		size = 17496
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion = secularism
-		size = 729
+		size = 18225
 	 } 
 	farmers = {
 		culture = bengali
 		religion =  sunni 
-		size = 5832
-	 } 
-	farmers = {
-		culture = bengali
-		religion = secularism
-		size = 243
+		size = 6075
 	 } 
 	farmers = {
 		culture = filipino
@@ -1206,22 +771,12 @@
 	farmers = {
 		culture = indonesian
 		religion =  sunni 
-		size = 5832
-	 } 
-	farmers = {
-		culture = indonesian
-		religion = secularism
-		size = 243
+		size = 6075
 	 } 
 	farmers = {
 		culture = turkish
 		religion =  sunni 
-		size = 1457
-	 } 
-	farmers = {
-		culture = turkish
-		religion = secularism
-		size = 60
+		size = 1518
 	 } 
 }
 #Hufuf - Eastern Region (1215000/303750 POPS)
@@ -1229,22 +784,12 @@
 	clergymen = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 5832
-	 } 
-	clergymen = {
-		culture = sunni_arab
-		religion = secularism
-		size = 243
+		size = 6075
 	 } 
 	farmers = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 174960
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion = secularism
-		size = 7290
+		size = 182250
 	 } 
 	farmers = {
 		culture = white_anglo
@@ -1274,22 +819,12 @@
 	farmers = {
 		culture = indian_muslim
 		religion =  sunni 
-		size = 17496
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion = secularism
-		size = 729
+		size = 18225
 	 } 
 	farmers = {
 		culture = bengali
 		religion =  sunni 
-		size = 5832
-	 } 
-	farmers = {
-		culture = bengali
-		religion = secularism
-		size = 243
+		size = 6075
 	 } 
 	farmers = {
 		culture = filipino
@@ -1304,22 +839,12 @@
 	farmers = {
 		culture = indonesian
 		religion =  sunni 
-		size = 5832
-	 } 
-	farmers = {
-		culture = indonesian
-		religion = secularism
-		size = 243
+		size = 6075
 	 } 
 	farmers = {
 		culture = turkish
 		religion =  sunni 
-		size = 1457
-	 } 
-	farmers = {
-		culture = turkish
-		religion = secularism
-		size = 60
+		size = 1518
 	 } 
 }
 #AlAhsa - Jizan (808000/202000 POPS)
@@ -1327,22 +852,12 @@
 	clergymen = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 3878
-	 } 
-	clergymen = {
-		culture = sunni_arab
-		religion = secularism
-		size = 161
+		size = 4040
 	 } 
 	farmers = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 81446
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion = secularism
-		size = 3393
+		size = 84840
 	 } 
 	farmers = {
 		culture = white_anglo
@@ -1372,22 +887,12 @@
 	farmers = {
 		culture = indian_muslim
 		religion =  sunni 
-		size = 11635
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion = secularism
-		size = 484
+		size = 12120
 	 } 
 	farmers = {
 		culture = bengali
 		religion =  sunni 
-		size = 3878
-	 } 
-	farmers = {
-		culture = bengali
-		religion = secularism
-		size = 161
+		size = 4040
 	 } 
 	farmers = {
 		culture = filipino
@@ -1402,21 +907,11 @@
 	farmers = {
 		culture = indonesian
 		religion =  sunni 
-		size = 3878
-	 } 
-	farmers = {
-		culture = indonesian
-		religion = secularism
-		size = 161
+		size = 4040
 	 } 
 	farmers = {
 		culture = turkish
 		religion =  sunni 
-		size = 969
-	 } 
-	farmers = {
-		culture = turkish
-		religion = secularism
-		size = 40
+		size = 1010
 	 } 
 }
