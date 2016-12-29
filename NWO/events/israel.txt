@@ -67,9 +67,8 @@ country_event = {
 		ai_chance = { factor = 100 }
 		prestige = -2
 		release = ISR
-		ISR = { country_event = 8007624 }
-		USA = { country_event = 1007603 }
 		release = PAL
+		ISR = { country_event = 8007624 }
 		PAL = { country_event = 8007626 }
 		end_military_access = EGY
 	}
@@ -1184,15 +1183,44 @@ country_event = {
     year = 1949 
     war = no
 	owns = 919 # Tel Aviv
-	NOT = { RUS = { government = proletarian_dictatorship } }
+	NOT = { exists = SUN }
   }
 
   mean_time_to_happen = { months = 1 }
 
   option = {
     name = EVT_8007670_A
-	RUS= { any_pop = { limit = { culture = jewish NOT = { strata = rich } } move_pop = 919 } } # Tel Aviv
+	RUS = { any_pop = { limit = { culture = jewish NOT = { strata = rich } } move_pop = 919 } } # Tel Aviv
 	UKR = { any_pop = { limit = { culture = jewish NOT = { strata = rich } } move_pop = 919 } }
 	BYE = { any_pop = { limit = { culture = jewish NOT = { strata = rich } } move_pop = 919 } }
   }
 }
+country_event = {
+  id = 8007700
+  title = EVT_8007700_NAME # Jewish settlers
+  desc = EVT_8007700_DESC
+  picture = "jewish_settlers"
+  fire_only_once = yes
+
+  trigger = {
+    tag = ISR
+    year = 1978 NOT = { year = 1990 }
+    war = no
+	owns = 918 # West Bank
+  }
+
+  mean_time_to_happen = { months = 1 }
+
+  option = {
+    name = EVT_8007700_A
+	random_pop = { limit = { culture = jewish NOT = { strata = rich } location = { NOT = { province_id = 918 } } } move_pop = 918 }
+	badboy = 10
+  }
+  
+  option = {
+    name = EVT_8007700_B
+	any_pop = { limit = { culture = jewish } militancy = 0.2 }
+  }
+}
+
+

@@ -1,103 +1,23 @@
-#Bulun - Gazankulu (263000/65750 POPS)
+#Bulun - Gazankulu (264000/66000 POPS)
 2667 = {
-	officers = {
-		culture = tsonga
-		religion =  protestant 
-		size = 52
-	 } 
-	officers = {
-		culture = tsonga
-		religion = secularism
-		size = 78
-	 } 
-	soldiers = {
-		culture = tsonga
-		religion =  protestant 
-		size = 210
-	 } 
-	soldiers = {
-		culture = tsonga
-		religion = secularism
-		size = 315
-	 } 
-	aristocrats = {
-		culture = tsonga
-		religion =  protestant 
-		size = 920
-	 } 
-	aristocrats = {
-		culture = tsonga
-		religion = secularism
-		size = 1380
-	 } 
-	bureaucrats = {
-		culture = tsonga
-		religion =  protestant 
-		size = 105
-	 } 
-	bureaucrats = {
-		culture = tsonga
-		religion = secularism
-		size = 157
-	 } 
-	capitalists = {
-		culture = tsonga
-		religion =  protestant 
-		size = 157
-	 } 
-	capitalists = {
-		culture = tsonga
-		religion = secularism
-		size = 236
-	 } 
 	clergymen = {
 		culture = tsonga
 		religion =  protestant 
-		size = 526
+		size = 528
 	 } 
 	clergymen = {
 		culture = tsonga
 		religion = secularism
-		size = 789
-	 } 
-	clerks = {
-		culture = tsonga
-		religion =  protestant 
-		size = 603
-	 } 
-	clerks = {
-		culture = tsonga
-		religion = secularism
-		size = 905
-	 } 
-	artisans = {
-		culture = tsonga
-		religion =  protestant 
-		size = 573
-	 } 
-	artisans = {
-		culture = tsonga
-		religion = secularism
-		size = 859
-	 } 
-	craftsmen = {
-		culture = tsonga
-		religion =  protestant 
-		size = 1811
-	 } 
-	craftsmen = {
-		culture = tsonga
-		religion = secularism
-		size = 2716
+		size = 792
 	 } 
 	farmers = {
 		culture = tsonga
 		religion =  protestant 
-		size = 21340
+		size = 25872
 	 } 
 	farmers = {
 		culture = tsonga
 		religion = secularism
-		size = 32010
+		size = 38808
 	 } 
 }

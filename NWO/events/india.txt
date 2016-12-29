@@ -597,7 +597,7 @@ country_event = {
 	relation = { who = GBR value = -150 } 
 	relation = { who = FRA value = -150 } 
 	relation = { who = CHI value = -150 } 
-	relation = { who = RUS value = -150 } 
+	relation = { who = SUN value = -150 } 
 	ai_chance = { factor = 0 }
   }
 }
@@ -806,7 +806,7 @@ country_event = {
 
   option = {
     name = EVT_8007275_A
-	relation = { who = RUS value = 75 } 
+	relation = { who = SUN value = 75 } 
 	relation = { who = CHI value = -25 } 
 	relation = { who = PAK value = -25 } 
 	relation = { who = USA value = -25 } 
@@ -821,7 +821,7 @@ country_event = {
 
   option = {
     name = EVT_8007276_A
-	relation = { who = RUS value = -50 } 
+	relation = { who = SUN value = -50 } 
 	relation = { who = USA value = 100 } 
   }
 }
@@ -857,6 +857,7 @@ country_event = {
 
   trigger = {
     tag = HND
+    NOT = { government = proletarian_dictatorship }
     year = 1967
 	owns = 2654 # Munger
 	owns = 1287 # Warangal
@@ -883,7 +884,9 @@ province_event = {
   trigger = {
     year = 1970
     owned_by = HND
-	owner = { has_country_flag = naxalite_insurgency }
+	owner = { has_country_flag = naxalite_insurgency
+	NOT = { government = proletarian_dictatorship }
+	}
 	any_neighbor_province = { is_core = NAX }
 	is_capital = no 
 	is_core = HND
@@ -911,6 +914,7 @@ country_event = {
 
   trigger = {
     tag = HND
+    NOT = { government = proletarian_dictatorship }
     year = 2010
 	war = no
   }

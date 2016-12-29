@@ -3,22 +3,22 @@
 	officers = {
 		culture = croat
 		religion =  catholic 
-		size = 273
+		size = 79
 	 } 
 	officers = {
 		culture = croat
 		religion = secularism
-		size = 167
+		size = 49
 	 } 
 	soldiers = {
 		culture = croat
 		religion =  catholic 
-		size = 1094
+		size = 1529
 	 } 
 	soldiers = {
 		culture = croat
 		religion = secularism
-		size = 671
+		size = 937
 	 } 
 	aristocrats = {
 		culture = croat
@@ -63,42 +63,42 @@
 	clerks = {
 		culture = croat
 		religion =  catholic 
-		size = 2442
+		size = 2437
 	 } 
 	clerks = {
 		culture = croat
 		religion = secularism
-		size = 1496
+		size = 1494
 	 } 
 	artisans = {
 		culture = croat
 		religion =  catholic 
-		size = 2320
+		size = 2315
 	 } 
 	artisans = {
 		culture = croat
 		religion = secularism
-		size = 1421
+		size = 1419
 	 } 
 	craftsmen = {
 		culture = croat
 		religion =  catholic 
-		size = 7327
+		size = 7314
 	 } 
 	craftsmen = {
 		culture = croat
 		religion = secularism
-		size = 4490
+		size = 4482
 	 } 
 	farmers = {
 		culture = croat
 		religion =  catholic 
-		size = 52648
+		size = 52429
 	 } 
 	farmers = {
 		culture = croat
 		religion = secularism
-		size = 32268
+		size = 32133
 	 } 
 	farmers = {
 		culture = bosniak
@@ -124,5 +124,43 @@
 		culture = yugoslav
 		religion = secularism
 		size = 3355
+	 } 
+}
+#Livno - Canton 10 (148000/37000 POPS)
+789 = {
+	clergymen = {
+		culture = croat
+		religion =  catholic 
+		size = 458
+	 } 
+	clergymen = {
+		culture = croat
+		religion = secularism
+		size = 281
+	 } 
+	farmers = {
+		culture = croat
+		religion =  catholic 
+		size = 12387
+	 } 
+	farmers = {
+		culture = croat
+		religion = secularism
+		size = 7592
+	 } 
+	farmers = {
+		culture = serb
+		religion =  orthodox 
+		size = 7570
+	 } 
+	farmers = {
+		culture = serb
+		religion = secularism
+		size = 4639
+	 } 
+	farmers = {
+		culture = bosniak
+		religion =  sunni 
+		size = 3700
 	 } 
 }

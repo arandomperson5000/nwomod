@@ -2,23 +2,28 @@ owner = ITA
 controller = ITA
 add_core = ITA
 trade_goods = fish
-life_rating = 35
+life_rating = 24
 terrain = urban_naples
 colonial = 0
+state_building = {
+	level = 2
+	building = fish_canned_food_factory
+	upgrade = yes
+}
 1992.1.1 = {
 owner = ITA
 controller = ITA
 add_core = ITA
-life_rating = 35
+life_rating = 12
 railroad = 1
 colonial = 0
 state_building = {
-	level = 3
+	level = 1
 	building = glass_factory
 	upgrade = yes
 }
 state_building = {
-	level = 3
+	level = 1
 	building = optics_factory
 	upgrade = yes
 }

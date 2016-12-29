@@ -109,11 +109,13 @@ country_event = {
 		tag = RUS
 		year = 1999
 		exists = CHC
+		exists = DAG
 		NOT = { truce_with = CHC }
+		NOT = { year = 2000 }
 		NOT = { government = proletarian_dictatorship }
 	}
 	
-	mean_time_to_happen = { months = 2 }
+	mean_time_to_happen = { months = 8 }
 
 	option = {
 		name = EVT_32504_A
@@ -164,6 +166,7 @@ country_event = {
 		name = EVT_32505_B
 		prestige = -40
 		# EVT_32505_B;Leave matters as they are. Devolve our Caucasus realm.
+		release_vassal = CHC
 		ai_chance = { factor = 0 }
 	}
 }
@@ -250,6 +253,7 @@ country_event = {
 	option = {
 		name = EVT_32508_A 
 		# EVT_32505_A;Defend our country!
+		any_pop = { militancy = -5.0 consciousness = -2.0 }
 	}
 }
 
@@ -296,7 +300,7 @@ country_event = {
   fire_only_once = yes
 
   trigger = {
-    tag = RUS
+    tag = SUN
     year = 1941 NOT = {year = 1950 }
   }
 
@@ -316,7 +320,7 @@ country_event = {
   fire_only_once = yes
 
   trigger = {
-    tag = RUS
+    tag = SUN
     year = 1953 NOT = {year = 1954}
   }
 
@@ -436,7 +440,7 @@ country_event = {
   fire_only_once = yes
 
   trigger = {
-    tag = RUS
+    tag = SUN
     year = 1954 NOT = {  year = 1960 }
     has_global_flag = event_fired_8014254
     exists = DDR
@@ -474,7 +478,7 @@ country_event = {
     name = EVT_8014256_A
 	any_pop = { militancy = 0.5  consciousness = 1 }
 	relation = { who = DDR value = 100 } 
-	relation = { who = RUS value = 50 } 
+	relation = { who = SUN value = 50 } 
 	country_event =  { id = 8014261 days = 1 } 
 	ai_chance = { factor = 100 }
   }
@@ -494,7 +498,7 @@ country_event = {
   option = {
     name = EVT_8014257_A
 	relation = { who = GER value = 100 } 
-	relation = { who = RUS value = 50 } 
+	relation = { who = SUN value = 50 } 
     country_event =  { id = 8014261 days = 1 } 
 	ai_chance = { factor = 100 }
   }
@@ -514,14 +518,14 @@ country_event = {
 
   option = {
     name = EVT_8014258_A
-	relation = { who = RUS value = 100 } 
+	relation = { who = SUN value = 100 } 
 	set_global_flag = event_fired_8014258
 	ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8014258_B
-	relation = { who = RUS value = -50 } 
+	relation = { who = SUN value = -50 } 
 	ai_chance = { factor = 0 }
   }
 }
@@ -534,14 +538,14 @@ country_event = {
 
   option = {
     name = EVT_8014259_A
-	relation = { who = RUS value = 100 } 
+	relation = { who = SUN value = 100 } 
 	set_global_flag = event_fired_8014259
 	ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8014259_B
-	relation = { who = RUS value = -50 } 
+	relation = { who = SUN value = -50 } 
 	ai_chance = { factor = 0 }
   }
 }
@@ -554,14 +558,14 @@ country_event = {
 
   option = {
     name = EVT_8014260_A
-	relation = { who = RUS value = 100 } 
+	relation = { who = SUN value = 100 } 
 	set_global_flag = event_fired_8014260
 	ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8014260_B
-	relation = { who = RUS value = -50 } 
+	relation = { who = SUN value = -50 } 
 	ai_chance = { factor = 0 }
   }
 }
@@ -590,8 +594,8 @@ country_event = {
     name = EVT_8014261_A
 	inherit = DDR 
 	neutrality = yes
-	RUS  = { country_event = 8225001 } 
-	RUS = { country_event = 8014262 }
+	SUN  = { country_event = 8225001 } 
+	SUN = { country_event = 8014262 }
   }
 }
 country_event = {
@@ -599,7 +603,7 @@ country_event = {
   title = EVT_8014262_NAME
   desc = EVT_8014262_DESC
   picture = "nwo2_soviet_economy"
-  is_triggered_only = yes # RUS
+  is_triggered_only = yes # SUN
 
   option = {
     name = EVT_8014262_A
@@ -611,7 +615,7 @@ country_event = {
   title = EVT_8014206_NAME
   desc = EVT_8014206_DESC
   picture = "nwo2_lavrentiy_beria"
-  is_triggered_only = yes # RUS
+  is_triggered_only = yes # SUN
 
   option = {
     name = EVT_8014206_A
@@ -644,7 +648,7 @@ country_event = {
   fire_only_once = yes
 
   trigger = {
-    tag = RUS
+    tag = SUN
     year = 1947 NOT = { year = 1956 }
   }
 
@@ -663,7 +667,7 @@ country_event = {
   fire_only_once = yes
 
   trigger = {
-    tag = RUS
+    tag = SUN
     year = 1954 NOT = { year = 1960 }
   }
 
@@ -682,7 +686,7 @@ country_event = {
   fire_only_once = yes
 
   trigger = {
-    tag = RUS
+    tag = SUN
     year = 1956 NOT = { year = 1960 }
   }
 
@@ -698,7 +702,7 @@ country_event = {
   option = {
     name = EVT_8014216_B
 	any_pop = { militancy = 0.1 consciousness = 0.1 }
-	RUS  = { country_event = 8225001 } 
+	SUN  = { country_event = 8225001 } 
 	ai_chance = { factor = 100 }
   }
 
@@ -725,7 +729,7 @@ country_event = {
   fire_only_once = yes
 
   trigger = {
-    tag = RUS
+    tag = SUN
 	government = proletarian_dictatorship 
     political_reform_want = 1
     average_militancy  = 3
@@ -752,7 +756,7 @@ country_event = {
   fire_only_once = yes
 
   trigger = {
-    tag = RUS
+    tag = SUN
     year = 1952 NOT = { year = 1953 }
   }
 
@@ -819,7 +823,7 @@ country_event = {
 
   option = {
     name = EVT_8014220_A
-	relation = { who = RUS value = -100 } 
+	relation = { who = SUN value = -100 } 
 	country_event = 8014224 
   }
 }
@@ -853,7 +857,7 @@ country_event = {
   option = {
     name = EVT_8014225_A
 	any_pop = { militancy = 0.5 consciousness = 1 }
-	relation = { who = RUS value = -100 } 
+	relation = { who = SUN value = -100 } 
   }
 }
 country_event = {
@@ -864,7 +868,7 @@ country_event = {
   fire_only_once = yes
 
   trigger = {
-    tag = RUS
+    tag = SUN
     year = 1952 NOT = { year = 1970 }
     NOT = { average_militancy  = 2 }
     
@@ -906,7 +910,7 @@ country_event = {
   fire_only_once = yes
 
   trigger = {
-    tag = RUS
+    tag = SUN
     year = 1964 NOT = { year = 1979 }
 	has_country_flag = nikita_khrushchev
   }
@@ -926,7 +930,7 @@ country_event = {
   fire_only_once = yes
 
   trigger = {
-    tag = RUS
+    tag = SUN
     year = 1964 NOT = { year = 1979 }
 	NOT = { has_country_flag = nikita_khrushchev }
   }
@@ -946,7 +950,7 @@ country_event = {
   fire_only_once = yes
 
   trigger = {
-    tag = RUS
+    tag = SUN
     year = 1984 NOT = { year = 1985 }
   }
 
@@ -965,7 +969,7 @@ country_event = {
   fire_only_once = yes
 
   trigger = {
-    tag = RUS
+    tag = SUN
      year = 1984 NOT = { year = 1985 }
   }
 
@@ -984,7 +988,7 @@ country_event = { # Mikhail Gorbachev
   fire_only_once = yes
 
   trigger = { 
-    tag = RUS
+    tag = SUN
 	government = proletarian_dictatorship
     has_country_modifier = in_bankrupcy
   }
@@ -1014,7 +1018,7 @@ country_event = { # August Coup
   fire_only_once = yes
 
   trigger = {
-    tag = RUS
+    tag = SUN
     has_global_flag = autumn_of_nations
 	NOT = { has_global_flag = august_coup }
   }
@@ -1035,7 +1039,7 @@ country_event = { # perestroika
   fire_only_once = yes
 
   trigger = {
-    tag = RUS
+    tag = SUN
     war = no
 	has_country_flag = perestroika
 	government = proletarian_dictatorship
@@ -1076,7 +1080,7 @@ country_event = { # perestroika
   fire_only_once = yes
 
   trigger = {
-    tag = RUS
+    tag = SUN
 	has_country_flag = perestroika
 	government = proletarian_dictatorship
   }
@@ -1097,7 +1101,7 @@ country_event = { # Structural Weaknesses of the Eastern Bloc
   fire_only_once = yes
 
   trigger = {
-    tag = RUS
+    tag = SUN
 	government = proletarian_dictatorship
     check_variable = { which = soviet_control_cee value = 8 } 
   }
@@ -1144,7 +1148,7 @@ country_event = { # Regime bends under dissent
   picture = "nwo2_ussr_protests"
 
   trigger = {
-    tag = RUS
+    tag = SUN
 	government = proletarian_dictatorship
     NOT = { has_global_flag = autumn_of_nations }
     average_militancy  = 9
@@ -1168,7 +1172,7 @@ country_event = { # Brezhnev Era
   picture = "brezhnev_era"
 
   trigger = {
-    tag = RUS
+    tag = SUN
 	government = proletarian_dictatorship
     NOT = { has_global_flag = autumn_of_nations }
     average_militancy  = 9
@@ -1195,7 +1199,7 @@ country_event = {
   fire_only_once = yes
 
   trigger = {
-    tag = RUS
+    tag = SUN
 	government = proletarian_dictatorship
     has_global_flag = autumn_of_nations
 	war = no
@@ -1264,7 +1268,7 @@ country_event = { # Belavezha Accords
   fire_only_once = yes
 
   trigger = {
-    tag = RUS
+    tag = SUN
     has_global_flag = autumn_of_nations
 	has_global_flag = august_coup
     war = no
@@ -1276,6 +1280,17 @@ country_event = { # Belavezha Accords
   option = {
     name = EVT_8014249_A
 	any_pop = { militancy = -2.5  consciousness = -2 }
+	release = UKR 
+	release = BYE 
+	release = GEO 
+	release = AZB 
+	release = ARM 
+	release = TKR
+	release = MOL
+	release = UZB 
+	release = KYR 
+	release = TAJ 
+	release = KAZ 
 	country_event = 8014271
   }
 }
@@ -1288,20 +1303,10 @@ country_event = { # Fall of USSR
 
   option = {
     name = EVT_8014271_A
+    	change_tag = RUS
 	any_pop = { militancy = -2.5  consciousness = -2 }
 	government = democracy country_event = 800054
-	random_country = { limit = { NOT = { exists = EST } tag = RUS } country_event = 8014246 } 
-	release = UKR 
-	release = BYE 
-	release = GEO 
-	release = AZB 
-	release = ARM 
-	release = TKR
-	release = MOL
-	release = UZB 
-	release = KYR 
-	release = TAJ 
-	release = KAZ 
+	random_country = { limit = { NOT = { exists = EST } tag = THIS } country_event = 8014246 } 
 	MOL = { release = TRD }
 	create_alliance = TRD
 	diplomatic_influence = { who = TRD value = 100 }
@@ -1318,7 +1323,7 @@ country_event = {
   fire_only_once = yes
 
   trigger = {
-    tag = RUS
+    tag = SUN
     year = 1956
 	OR = { 
 		owns = 361
@@ -1343,7 +1348,7 @@ country_event = {
   fire_only_once = yes
 
   trigger = {
-    tag = RUS
+    OR = { tag = SUN tag = RUS }
     year = 1960  NOT = { year = 1990 }
     exists = HND
 	government = proletarian_dictatorship
@@ -1953,3 +1958,159 @@ country_event = {
         }
      }
 }    
+country_event = {
+    id = 32525
+    title = EVT_32525_NAME # "Lost Great War"
+    desc = EVT_32525_DESC 
+    picture = "treaty"
+	
+	trigger = {
+		tag = SUN
+		exists = UKR
+		exists = BYE
+		exists = LIT
+		exists = EST
+		exists = LAT
+		war = no 
+		has_country_modifier = no_more_war
+		has_country_modifier = punitive_effects
+	}
+	mean_time_to_happen = { months = 1 }
+    option = {
+    	name = EVT_32525_A #"We are no longer Soviet Union"
+    	change_tag = RUS
+    }
+        
+}
+
+country_event = {
+	id = 32526
+	title = EVT_32526_NAME
+	# EVT_32526_NAME;War of Dagestan
+	desc = EVT_32526_DESC
+	# EVT_32504_DESC;The War of Dagestan began when the Chechnya-based Islamic International Brigade (IIB), an Islamist group invaded the neighboring Russian republic of Dagestan, on 7 August 1999, in support of the Shura of Dagestan separatist rebels. The war ended with a major Russian victory and the retreat of the IIB. The Invasion of Dagestan along with the Russian Apartment bombings led Russia into the Second Chechen War.
+	picture = "war_of_dagestan"
+	fire_only_once = yes
+	
+	trigger = {
+		war = no
+		tag = RUS
+		year = 1999
+		exists = CHC
+		NOT = { truce_with = CHC }
+		NOT = { year = 2000 }
+		NOT = { government = proletarian_dictatorship }
+	}
+	
+	mean_time_to_happen = { months = 8 }
+
+	option = {
+		name = EVT_32526_A
+		# EVT_32526_A;We need to act! Drive the invaders out of Dagestan.
+		release = DAG
+		casus_belli = { target = DAG type = annex_core_country months = 12 }
+		war = { target = DAG attacker_goal = { casus_belli = annex_core_country } defender_goal = { casus_belli = status_quo } }
+		ai_chance = { factor = 100 }
+	}
+	option = {
+		name = EVT_32526_B
+		# EVT_32526_B;Leave matters as they are. Devolve our Caucasus realm.
+		release = DAG
+		ai_chance = { factor = 0 }
+	}
+}
+
+country_event = {
+	id = 32527
+	title = EVT_32527_NAME
+	# EVT_32527_NAME;Insurgency in the North Caucasus
+	desc = EVT_32527_DESC
+	picture = "north_caucasian_insurgency"
+	fire_only_once = yes
+	
+	trigger = {
+		war = no
+		tag = RUS
+		year = 2009
+		NOT = { year = 2010 }
+		NOT = { government = proletarian_dictatorship }
+	}
+	
+	mean_time_to_happen = { months = 4 }
+
+	option = {
+		name = EVT_32527_A
+		# EVT_32527_A; Crush this Insurgency now!
+		any_pop = { limit = { OR = { culture = avar culture = chechen culture = circassians culture = dargwa culture = ingush culture = kabarday culture = karachay culture = balkar culture = ossetian religion = sunni } } militancy = 1.0  consciousness = 1 }
+		1048 = { add_core = NCS }
+		1049 = { add_core = NCS }
+		1050 = { add_core = NCS }
+		1051 = { add_core = NCS }
+		1052 = { add_core = NCS }
+		1053 = { add_core = NCS }
+		1053 = { add_core = NCS }
+		1054 = { add_core = NCS }
+		1055 = { add_core = NCS }
+		1056 = { add_core = NCS }
+		1057 = { add_core = NCS }
+		ai_chance = { factor = 100 }
+	}
+	option = {
+		name = EVT_32527_B
+		# EVT_32527_B;Give in to the demands of these rebels.
+		any_pop = { limit = { OR = { culture = avar culture = chechen culture = circassians culture = dargwa culture = ingush culture = kabarday culture = karachay culture = balkar culture = ossetian religion = sunni } } militancy = -1.0  consciousness = -1.0 }
+		1048 = { add_core = NCS }
+		1049 = { add_core = NCS }
+		1050 = { add_core = NCS }
+		1051 = { add_core = NCS }
+		1052 = { add_core = NCS }
+		1053 = { add_core = NCS }
+		1053 = { add_core = NCS }
+		1054 = { add_core = NCS }
+		1055 = { add_core = NCS }
+		1056 = { add_core = NCS }
+		1057 = { add_core = NCS }
+		release = NCS
+		ai_chance = { factor = 0 }
+	}
+}
+
+country_event = {
+	id = 32528
+	title = EVT_32528_NAME
+	# EVT_32528_NAME;Second Battle of Grozny
+	desc = EVT_32528_DESC
+	picture = "second_battle_of_grozny"
+	fire_only_once = yes
+	
+	trigger = {
+		war = no
+		tag = RUS
+		exists = CHC
+		year = 1996
+		NOT = { year = 1997 }
+		NOT = { government = proletarian_dictatorship }
+	}
+	
+	mean_time_to_happen = { months = 8 }
+
+	option = {
+		name = EVT_32528_A
+		# EVT_32528_A;Sign the Khasav-Yurt Accord
+		any_pop = { militancy = -2.0  consciousness = -2 }
+		release_vassal = CHC
+		prestige = -20
+		ai_chance = { factor = 100 }
+	}
+	option = {
+		name = EVT_32528_B
+		# EVT_32528_B;Launch a new offensive to recapture Chechnya from the rebels.
+		prestige = -40
+		any_pop = { militancy = 4.5  consciousness = 3 }
+		release_vassal = CHC
+		casus_belli = { target = CHC type = make_puppet months = 12 }
+		war = { target = CHC attacker_goal = { casus_belli = annex_core_country } defender_goal = { casus_belli = status_quo } }
+		ai_chance = { factor = 100 }
+	}
+}
+

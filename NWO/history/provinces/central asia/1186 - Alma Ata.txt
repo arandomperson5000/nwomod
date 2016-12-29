@@ -1,14 +1,34 @@
-owner = RUS
-controller = RUS
+owner = SUN
+controller = SUN
 add_core = KAZ
 trade_goods = copper
-life_rating = 35
+life_rating = 22
 terrain = mountain_grassland
 colonial = 2
 1992.1.1 = {
 owner = KAZ
 controller = KAZ
 add_core = KAZ
-life_rating = 35
+life_rating = 25
 colonial = 0
+state_building = {
+	level = 1
+	building = petroleum_plastics_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = inorganic_chemicals_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = copper_wire_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = steel_factory
+	upgrade = yes
+}
 }

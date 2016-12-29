@@ -1,103 +1,23 @@
-#Ulundi - Ulundi (1903000/475750 POPS)
+#Ulundi - Ulundi (1911000/477750 POPS)
 2113 = {
-	officers = {
-		culture = zulu
-		religion =  protestant 
-		size = 380
-	 } 
-	officers = {
-		culture = zulu
-		religion = secularism
-		size = 570
-	 } 
-	soldiers = {
-		culture = zulu
-		religion =  protestant 
-		size = 1522
-	 } 
-	soldiers = {
-		culture = zulu
-		religion = secularism
-		size = 2283
-	 } 
-	aristocrats = {
-		culture = zulu
-		religion =  protestant 
-		size = 6660
-	 } 
-	aristocrats = {
-		culture = zulu
-		religion = secularism
-		size = 9990
-	 } 
-	bureaucrats = {
-		culture = zulu
-		religion =  protestant 
-		size = 761
-	 } 
-	bureaucrats = {
-		culture = zulu
-		religion = secularism
-		size = 1141
-	 } 
-	capitalists = {
-		culture = zulu
-		religion =  protestant 
-		size = 1141
-	 } 
-	capitalists = {
-		culture = zulu
-		religion = secularism
-		size = 1712
-	 } 
 	clergymen = {
 		culture = zulu
 		religion =  protestant 
-		size = 3806
+		size = 3822
 	 } 
 	clergymen = {
 		culture = zulu
 		religion = secularism
-		size = 5709
-	 } 
-	clerks = {
-		culture = zulu
-		religion =  protestant 
-		size = 4368
-	 } 
-	clerks = {
-		culture = zulu
-		religion = secularism
-		size = 6552
-	 } 
-	artisans = {
-		culture = zulu
-		religion =  protestant 
-		size = 4150
-	 } 
-	artisans = {
-		culture = zulu
-		religion = secularism
-		size = 6225
-	 } 
-	craftsmen = {
-		culture = zulu
-		religion =  protestant 
-		size = 13105
-	 } 
-	craftsmen = {
-		culture = zulu
-		religion = secularism
-		size = 19658
+		size = 5733
 	 } 
 	farmers = {
 		culture = zulu
 		religion =  protestant 
-		size = 154404
+		size = 187278
 	 } 
 	farmers = {
 		culture = zulu
 		religion = secularism
-		size = 231606
+		size = 280917
 	 } 
 }

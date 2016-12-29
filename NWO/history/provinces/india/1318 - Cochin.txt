@@ -3,19 +3,14 @@ controller = TRA
 add_core = HND
 add_core = TRA
 trade_goods = rice
-life_rating = 35
+life_rating = 37
 terrain = seasonal_jungle_hills
 colonial = 0
-state_building = {
-	level = 1
-	building = rice_canned_food_factory
-	upgrade = yes
-}
 1992.1.1 = {
 owner = HND
 controller = HND
 add_core = HND
 add_core = TRA
-life_rating = 35
+life_rating = 38
 colonial = 0
 }

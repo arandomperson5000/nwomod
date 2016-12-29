@@ -2,7 +2,7 @@ owner = EGY
 controller = EGY
 add_core = EGY
 trade_goods = cotton
-life_rating = 35
+life_rating = 33
 terrain = urban_cairo
 colonial = 0
 state_building = {
@@ -10,19 +10,24 @@ state_building = {
 	building = rice_canned_food_factory
 	upgrade = yes
 }
+state_building = {
+	level = 1
+	building = fruit_canned_food_factory
+	upgrade = yes
+}
 1992.1.1 = {
 owner = EGY
 controller = EGY
 add_core = EGY
-life_rating = 35
+life_rating = 30
 colonial = 0
 state_building = {
-	level = 4
+	level = 1
 	building = furniture_factory
 	upgrade = yes
 }
 state_building = {
-	level = 4
+	level = 1
 	building = fabric_factory
 	upgrade = yes
 }

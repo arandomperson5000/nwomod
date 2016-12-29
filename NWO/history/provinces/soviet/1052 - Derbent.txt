@@ -1,9 +1,9 @@
-owner = RUS
-controller = RUS
+owner = SUN
+controller = SUN
 add_core = RUS
 add_core = KAB
 trade_goods = copper
-life_rating = 35
+life_rating = 29
 terrain = conifer_forest_mountains
 railroad = 1
 colonial = 0
@@ -14,17 +14,7 @@ state_building = {
 }
 state_building = {
 	level = 1
-	building = wool_fabric_factory
-	upgrade = yes
-}
-state_building = {
-	level = 1
 	building = copper_wire_factory
-	upgrade = yes
-}
-state_building = {
-	level = 1
-	building = petroleum_fuel_factory
 	upgrade = yes
 }
 1992.1.1 = {
@@ -32,6 +22,6 @@ owner = RUS
 controller = RUS
 add_core = RUS
 add_core = KAB
-life_rating = 35
+life_rating = 15
 colonial = 0
 }

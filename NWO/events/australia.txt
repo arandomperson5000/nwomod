@@ -100,6 +100,35 @@ country_event = {
   }
 }
 country_event = {
+  id = 8001033
+  title = "EVT_8001033_NAME"
+  desc = "EVT_8001033_DESC"
+  picture = "white_australia"
+  fire_only_once = yes
+
+  trigger = {
+    tag = AST
+    year = 1966
+	NOT = { OR = { immigration_policy = naturalization immigration_policy = promoted_immigration } }
+    war = no
+  }
+
+  mean_time_to_happen = { months = 6 }
+
+  option = {
+    name = "EVT_8001032_A"
+	random_state = { any_pop = { dominant_issue = { value = promoted_immigration factor = 0.4 } } }
+	random_state = { any_pop = { dominant_issue = { value = naturalization factor = 0.4 } } }
+	political_reform = naturalization
+	prestige = 20
+  }
+  option = {
+    name = "EVT_8001032_A"
+	random_state = { any_pop = { dominant_issue = { value = naturalization factor = 0.4 } } }
+	prestige = -10
+  }  
+}
+country_event = {
   id = 8001050
   title = EVT_8001050_NAME
   desc = EVT_8001050_DESC
@@ -353,7 +382,7 @@ country_event = {
 
   option = {
     name = EVT_8001060_A
-any_pop = { consciousness = -0.1 }relation = { who = RAJ value = 10 } relation = { who = HND value = 10 } relation = { who = JAP value = 10 } relation = { who = NZL value = 10 } relation = { who = FRA value = 10 } relation = { who = GBR value = 10 } relation = { who = USA value = 10 } relation = { who = AST value = 10 } relation = { who = RUS value = -20 } 
+any_pop = { consciousness = -0.1 }relation = { who = RAJ value = 10 } relation = { who = HND value = 10 } relation = { who = JAP value = 10 } relation = { who = NZL value = 10 } relation = { who = FRA value = 10 } relation = { who = GBR value = 10 } relation = { who = USA value = 10 } relation = { who = AST value = 10 } relation = { who = SUN value = -20 } 
   }
 }
 country_event = {
@@ -487,14 +516,14 @@ country_event = {
   option = {
     name = EVT_8001067_A
 	any_pop = { consciousness = 0.2 }
-	relation = { who = RUS value = -15 } 
+	relation = { who = SUN value = -15 } 
 	ai_chance = { factor = 100 }
   }
 
   option = {
     name = EVT_8001067_B
 	any_pop = { consciousness = 0.7 }
-	relation = { who = RUS value = -30 } 
+	relation = { who = SUN value = -30 } 
 	random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.55 } } }
 	ai_chance = { factor = 0 }
   }
@@ -505,7 +534,7 @@ country_event = {
 	random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.3 } } }
 	relation = { who = GBR value = -15 } 
 	relation = { who = USA value = -15 } 
-	relation = { who = RUS value = 25 } 
+	relation = { who = SUN value = 25 } 
 	ai_chance = { factor = 0 }
   }
 }
@@ -627,7 +656,7 @@ country_event = {
 
   option = {
     name = EVT_8001073_A
-	relation = { who = RUS value = -10 } 
+	relation = { who = SUN value = -10 } 
 	relation = { who = CHI value = -10 } 
   }
 }
@@ -909,7 +938,7 @@ country_event = {
   option = {
     name = EVT_8001086_B
 	ai_chance = { factor  = 0 }
-	relation = { who = USA value = -20 } relation = { who = GBR value = -20 } relation = { who = RUS value = 10 } any_pop = { militancy = 1.5 }random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.4 } } }
+	relation = { who = USA value = -20 } relation = { who = GBR value = -20 } relation = { who = SUN value = 10 } any_pop = { militancy = 1.5 }random_state = { any_pop = { dominant_issue = { value = planned_economy factor = 0.4 } } }
   }
 
   option = {
@@ -1081,7 +1110,7 @@ country_event = {
   option = {
     name = EVT_8001094_A
 	any_pop = { consciousness = -0.2 }
-	relation = { who = RUS value = -10 } 
+	relation = { who = SUN value = -10 } 
 	relation = { who = HUN value = -25 } 
 	ai_chance = { factor  = 100 }
   }
@@ -1089,7 +1118,7 @@ country_event = {
   option = {
     name = EVT_8001094_B
 	any_pop = { consciousness = 0.5 }
-	relation = { who = RUS value = 5 } 
+	relation = { who = SUN value = 5 } 
 	relation = { who = HUN value = 5 } 
 	ai_chance = { factor  = 0 }
   }

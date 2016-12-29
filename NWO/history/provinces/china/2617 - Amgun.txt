@@ -1,8 +1,8 @@
-owner = RUS
-controller = RUS
+owner = SUN
+controller = SUN
 add_core = RUS
 trade_goods = iron
-life_rating = 35
+life_rating = 12
 terrain = conifer_forest_mountains
 railroad = 1
 colonial = 0
@@ -10,8 +10,13 @@ colonial = 0
 owner = RUS
 controller = RUS
 add_core = RUS
-life_rating = 35
+life_rating = 15
 colonial = 0
+state_building = {
+	level = 1
+	building = cement_factory
+	upgrade = yes
+}
 state_building = {
 	level = 1
 	building = ships_factory
@@ -20,6 +25,11 @@ state_building = {
 state_building = {
 	level = 1
 	building = steel_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = machine_parts_factory
 	upgrade = yes
 }
 }

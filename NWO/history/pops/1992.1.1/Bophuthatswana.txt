@@ -1,103 +1,56 @@
-#Zhigansk - Bophuthatswana (1107000/276750 POPS)
+#Dikathong - Dikathong (154000/38500 POPS)
+2095 = {
+	clergymen = {
+		culture = tswana
+		religion =  protestant 
+		size = 308
+	 } 
+	clergymen = {
+		culture = tswana
+		religion = secularism
+		size = 462
+	 } 
+	farmers = {
+		culture = tswana
+		religion =  protestant 
+		size = 12012
+	 } 
+	farmers = {
+		culture = tswana
+		religion = secularism
+		size = 18018
+	 } 
+	farmers = {
+		culture = coloured
+		religion =  protestant 
+		size = 3080
+	 } 
+	farmers = {
+		culture = coloured
+		religion = secularism
+		size = 4620
+	 } 
+}
+#Zhigansk - Bophuthatswana (1111000/277750 POPS)
 2649 = {
-	officers = {
-		culture = tswana
-		religion =  protestant 
-		size = 221
-	 } 
-	officers = {
-		culture = tswana
-		religion = secularism
-		size = 331
-	 } 
-	soldiers = {
-		culture = tswana
-		religion =  protestant 
-		size = 885
-	 } 
-	soldiers = {
-		culture = tswana
-		religion = secularism
-		size = 1328
-	 } 
-	aristocrats = {
-		culture = tswana
-		religion =  protestant 
-		size = 3874
-	 } 
-	aristocrats = {
-		culture = tswana
-		religion = secularism
-		size = 5811
-	 } 
-	bureaucrats = {
-		culture = tswana
-		religion =  protestant 
-		size = 442
-	 } 
-	bureaucrats = {
-		culture = tswana
-		religion = secularism
-		size = 664
-	 } 
-	capitalists = {
-		culture = tswana
-		religion =  protestant 
-		size = 664
-	 } 
-	capitalists = {
-		culture = tswana
-		religion = secularism
-		size = 996
-	 } 
 	clergymen = {
 		culture = tswana
 		religion =  protestant 
-		size = 2214
+		size = 2222
 	 } 
 	clergymen = {
 		culture = tswana
 		religion = secularism
-		size = 3321
-	 } 
-	clerks = {
-		culture = tswana
-		religion =  protestant 
-		size = 2541
-	 } 
-	clerks = {
-		culture = tswana
-		religion = secularism
-		size = 3811
-	 } 
-	artisans = {
-		culture = tswana
-		religion =  protestant 
-		size = 2414
-	 } 
-	artisans = {
-		culture = tswana
-		religion = secularism
-		size = 3621
-	 } 
-	craftsmen = {
-		culture = tswana
-		religion =  protestant 
-		size = 7623
-	 } 
-	craftsmen = {
-		culture = tswana
-		religion = secularism
-		size = 11435
+		size = 3333
 	 } 
 	farmers = {
 		culture = tswana
 		religion =  protestant 
-		size = 89819
+		size = 108878
 	 } 
 	farmers = {
 		culture = tswana
 		religion = secularism
-		size = 134728
+		size = 163317
 	 } 
 }

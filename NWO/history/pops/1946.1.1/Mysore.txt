@@ -1,267 +1,152 @@
-#Bratsk - Tumkuru (4182000/1045500 POPS)
+#Bratsk - Tumkuru (4774000/1193500 POPS)
 1076 = {
-	officers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 2091
-	 } 
-	soldiers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 8364
-	 } 
-	aristocrats = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 41820
-	 } 
-	bureaucrats = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 1045
-	 } 
-	capitalists = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 5227
-	 } 
 	clergymen = {
 		culture = indian_muslim
 		religion =  sunni 
-		size = 20910
-	 } 
-	clerks = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 12103
-	 } 
-	artisans = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 11498
-	 } 
-	craftsmen = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 36310
+		size = 23870
 	 } 
 	farmers = {
 		culture = indian_muslim
 		religion =  sunni 
-		size = 69732
+		size = 214830
 	 } 
 	farmers = {
 		culture = indian_shia
 		religion =  shiite 
-		size = 115005
+		size = 131285
 	 } 
 	farmers = {
 		culture = kannada
 		religion =  hindu 
-		size = 705163
+		size = 804984
 	 } 
 	farmers = {
 		culture = kannada
 		religion = secularism
-		size = 16231
+		size = 18529
 	 } 
 }
-#Bangalore - Bangalore (5669000/1417250 POPS)
+#Bangalore - Bangalore (6471000/1617750 POPS)
 1313 = {
-	officers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 2834
-	 } 
-	soldiers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 11338
-	 } 
-	aristocrats = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 56690
-	 } 
-	bureaucrats = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 1417
-	 } 
 	clergymen = {
 		culture = indian_muslim
 		religion =  sunni 
-		size = 28345
-	 } 
-	artisans = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 15586
+		size = 32355
 	 } 
 	farmers = {
 		culture = indian_muslim
 		religion =  sunni 
-		size = 167240
+		size = 291195
 	 } 
 	farmers = {
 		culture = indian_shia
 		religion =  shiite 
-		size = 155897
+		size = 177952
 	 } 
 	farmers = {
 		culture = kannada
 		religion =  hindu 
-		size = 955899
+		size = 1091131
 	 } 
 	farmers = {
 		culture = kannada
 		religion = secularism
-		size = 22002
+		size = 25115
 	 } 
 }
-#Mysore - Mysore (3442000/860500 POPS)
+#Mysore - Mysore (3929000/982250 POPS)
 1314 = {
 	officers = {
 		culture = kannada
 		religion =  hindu 
-		size = 1682
+		size = 2086
 	 } 
 	officers = {
 		culture = kannada
 		religion = secularism
-		size = 38
+		size = 48
 	 } 
 	soldiers = {
 		culture = kannada
 		religion =  hindu 
-		size = 6729
+		size = 39658
 	 } 
 	soldiers = {
 		culture = kannada
 		religion = secularism
-		size = 154
+		size = 912
 	 } 
 	aristocrats = {
 		culture = kannada
 		religion =  hindu 
-		size = 33645
+		size = 38405
 	 } 
 	aristocrats = {
 		culture = kannada
 		religion = secularism
-		size = 774
+		size = 884
 	 } 
 	bureaucrats = {
 		culture = kannada
 		religion =  hindu 
-		size = 840
+		size = 959
 	 } 
 	bureaucrats = {
 		culture = kannada
 		religion = secularism
-		size = 19
+		size = 22
 	 } 
 	clergymen = {
 		culture = kannada
 		religion =  hindu 
-		size = 16822
+		size = 19202
 	 } 
 	clergymen = {
 		culture = kannada
 		religion = secularism
-		size = 387
+		size = 442
 	 } 
 	artisans = {
 		culture = kannada
 		religion =  hindu 
-		size = 9250
+		size = 3258
 	 } 
 	artisans = {
 		culture = kannada
 		religion = secularism
-		size = 212
+		size = 75
 	 } 
 	farmers = {
 		culture = kannada
 		religion =  hindu 
-		size = 772168
+		size = 856576
 	 } 
 	farmers = {
 		culture = kannada
 		religion = secularism
-		size = 17773
+		size = 19716
 	 } 
 }
-#Chitaldroog - Chitaldroog (1435000/358750 POPS)
+#Chitaldroog - Chitaldroog (1638000/409500 POPS)
 1315 = {
-	officers = {
-		culture = kannada
-		religion =  hindu 
-		size = 700
-	 } 
-	officers = {
-		culture = kannada
-		religion = secularism
-		size = 16
-	 } 
-	soldiers = {
-		culture = kannada
-		religion =  hindu 
-		size = 2805
-	 } 
-	soldiers = {
-		culture = kannada
-		religion = secularism
-		size = 64
-	 } 
-	aristocrats = {
-		culture = kannada
-		religion =  hindu 
-		size = 14027
-	 } 
-	aristocrats = {
-		culture = kannada
-		religion = secularism
-		size = 322
-	 } 
-	bureaucrats = {
-		culture = kannada
-		religion =  hindu 
-		size = 349
-	 } 
-	bureaucrats = {
-		culture = kannada
-		religion = secularism
-		size = 8
-	 } 
 	clergymen = {
 		culture = kannada
 		religion =  hindu 
-		size = 7013
+		size = 8005
 	 } 
 	clergymen = {
 		culture = kannada
 		religion = secularism
-		size = 161
-	 } 
-	artisans = {
-		culture = kannada
-		religion =  hindu 
-		size = 3856
-	 } 
-	artisans = {
-		culture = kannada
-		religion = secularism
-		size = 88
+		size = 184
 	 } 
 	farmers = {
 		culture = kannada
 		religion =  hindu 
-		size = 321924
+		size = 392280
 	 } 
 	farmers = {
 		culture = kannada
 		religion = secularism
-		size = 7410
+		size = 9029
 	 } 
 }

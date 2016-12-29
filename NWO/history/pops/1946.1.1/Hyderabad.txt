@@ -1,291 +1,39 @@
-#Hyderabad - Terangala (3688000/922000 POPS)
+#Hyderabad - Terangala (4209000/1052250 POPS)
 1283 = {
 	officers = {
 		culture = telegu
 		religion =  hindu 
-		size = 1802
+		size = 2056
 	 } 
 	officers = {
 		culture = telegu
 		religion = secularism
-		size = 41
+		size = 47
 	 } 
 	soldiers = {
 		culture = telegu
 		religion =  hindu 
-		size = 7210
+		size = 39085
 	 } 
 	soldiers = {
 		culture = telegu
 		religion = secularism
-		size = 165
+		size = 899
 	 } 
 	aristocrats = {
 		culture = telegu
 		religion =  hindu 
-		size = 36050
+		size = 41142
 	 } 
 	aristocrats = {
 		culture = telegu
 		religion = secularism
-		size = 829
+		size = 947
 	 } 
 	bureaucrats = {
 		culture = telegu
 		religion =  hindu 
-		size = 901
-	 } 
-	bureaucrats = {
-		culture = telegu
-		religion = secularism
-		size = 20
-	 } 
-	clergymen = {
-		culture = telegu
-		religion =  hindu 
-		size = 18025
-	 } 
-	clergymen = {
-		culture = telegu
-		religion = secularism
-		size = 414
-	 } 
-	artisans = {
-		culture = telegu
-		religion =  hindu 
-		size = 9911
-	 } 
-	artisans = {
-		culture = telegu
-		religion = secularism
-		size = 228
-	 } 
-	farmers = {
-		culture = telegu
-		religion =  hindu 
-		size = 719203
-	 } 
-	farmers = {
-		culture = telegu
-		religion = secularism
-		size = 16554
-	 } 
-	farmers = {
-		culture = indian_shia
-		religion =  shiite 
-		size = 110640
-	 } 
-}
-#Aurangabad - Maharashtra (6520000/1630000 POPS)
-1284 = {
-	officers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 3260
-	 } 
-	soldiers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 13040
-	 } 
-	aristocrats = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 65200
-	 } 
-	bureaucrats = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 1630
-	 } 
-	clergymen = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 32600
-	 } 
-	artisans = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 17926
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 518344
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 955995
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 22005
-	 } 
-}
-#Nizamabad - Terangala (6931000/1732750 POPS)
-1285 = {
-	officers = {
-		culture = telegu
-		religion =  hindu 
-		size = 3387
-	 } 
-	officers = {
-		culture = telegu
-		religion = secularism
-		size = 77
-	 } 
-	soldiers = {
-		culture = telegu
-		religion =  hindu 
-		size = 13550
-	 } 
-	soldiers = {
-		culture = telegu
-		religion = secularism
-		size = 311
-	 } 
-	aristocrats = {
-		culture = telegu
-		religion =  hindu 
-		size = 67750
-	 } 
-	aristocrats = {
-		culture = telegu
-		religion = secularism
-		size = 1559
-	 } 
-	bureaucrats = {
-		culture = telegu
-		religion =  hindu 
-		size = 1693
-	 } 
-	bureaucrats = {
-		culture = telegu
-		religion = secularism
-		size = 38
-	 } 
-	clergymen = {
-		culture = telegu
-		religion =  hindu 
-		size = 33875
-	 } 
-	clergymen = {
-		culture = telegu
-		religion = secularism
-		size = 779
-	 } 
-	artisans = {
-		culture = telegu
-		religion =  hindu 
-		size = 18627
-	 } 
-	artisans = {
-		culture = telegu
-		religion = secularism
-		size = 428
-	 } 
-	farmers = {
-		culture = telegu
-		religion =  hindu 
-		size = 691369
-	 } 
-	farmers = {
-		culture = telegu
-		religion = secularism
-		size = 691369
-	 } 
-	farmers = {
-		culture = indian_shia
-		religion =  shiite 
-		size = 207930
-	 } 
-}
-#Gulbarga - Gulbarga (4124000/1031000 POPS)
-1286 = {
-	officers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 2062
-	 } 
-	soldiers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 8248
-	 } 
-	aristocrats = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 41240
-	 } 
-	bureaucrats = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 1031
-	 } 
-	clergymen = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 20620
-	 } 
-	artisans = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 11338
-	 } 
-	farmers = {
-		culture = indian_muslim
-		religion =  sunni 
-		size = 18561
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 907022
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 20877
-	 } 
-}
-#Warangal - Terangala (4100000/1025000 POPS)
-1287 = {
-	officers = {
-		culture = telegu
-		religion =  hindu 
-		size = 2003
-	 } 
-	officers = {
-		culture = telegu
-		religion = secularism
-		size = 46
-	 } 
-	soldiers = {
-		culture = telegu
-		religion =  hindu 
-		size = 8015
-	 } 
-	soldiers = {
-		culture = telegu
-		religion = secularism
-		size = 184
-	 } 
-	aristocrats = {
-		culture = telegu
-		religion =  hindu 
-		size = 40077
-	 } 
-	aristocrats = {
-		culture = telegu
-		religion = secularism
-		size = 922
-	 } 
-	bureaucrats = {
-		culture = telegu
-		religion =  hindu 
-		size = 1001
+		size = 1028
 	 } 
 	bureaucrats = {
 		culture = telegu
@@ -295,36 +43,178 @@
 	clergymen = {
 		culture = telegu
 		religion =  hindu 
-		size = 20038
+		size = 20571
 	 } 
 	clergymen = {
 		culture = telegu
 		religion = secularism
-		size = 461
+		size = 473
 	 } 
 	artisans = {
 		culture = telegu
 		religion =  hindu 
-		size = 11018
+		size = 3504
 	 } 
 	artisans = {
 		culture = telegu
 		religion = secularism
-		size = 253
+		size = 80
 	 } 
 	farmers = {
 		culture = telegu
 		religion =  hindu 
-		size = 799549
+		size = 797756
 	 } 
 	farmers = {
 		culture = telegu
 		religion = secularism
-		size = 18403
+		size = 18362
 	 } 
 	farmers = {
 		culture = indian_shia
 		religion =  shiite 
-		size = 123000
+		size = 126270
+	 } 
+}
+#Aurangabad - Maharashtra (7442000/1860500 POPS)
+1284 = {
+	soldiers = {
+		culture = indian_muslim
+		religion =  sunni 
+		size = 17674
+	 } 
+	aristocrats = {
+		culture = indian_muslim
+		religion =  sunni 
+		size = 74420
+	 } 
+	bureaucrats = {
+		culture = indian_muslim
+		religion =  sunni 
+		size = 1860
+	 } 
+	clergymen = {
+		culture = indian_muslim
+		religion =  sunni 
+		size = 37210
+	 } 
+	artisans = {
+		culture = indian_muslim
+		religion =  sunni 
+		size = 6537
+	 } 
+	farmers = {
+		culture = indian_muslim
+		religion =  sunni 
+		size = 605569
+	 } 
+	farmers = {
+		culture = indian
+		religion =  hindu 
+		size = 1091183
+	 } 
+	farmers = {
+		culture = indian
+		religion = secularism
+		size = 25116
+	 } 
+}
+#Nizamabad - Terangala (7911000/1977750 POPS)
+1285 = {
+	clergymen = {
+		culture = telegu
+		religion =  hindu 
+		size = 38665
+	 } 
+	clergymen = {
+		culture = telegu
+		religion = secularism
+		size = 889
+	 } 
+	farmers = {
+		culture = telegu
+		religion =  hindu 
+		size = 850432
+	 } 
+	farmers = {
+		culture = telegu
+		religion = secularism
+		size = 850432
+	 } 
+	farmers = {
+		culture = indian_shia
+		religion =  shiite 
+		size = 237330
+	 } 
+}
+#Gulbarga - Gulbarga (4707000/1176750 POPS)
+1286 = {
+	soldiers = {
+		culture = indian_muslim
+		religion =  sunni 
+		size = 11179
+	 } 
+	aristocrats = {
+		culture = indian_muslim
+		religion =  sunni 
+		size = 47070
+	 } 
+	bureaucrats = {
+		culture = indian_muslim
+		religion =  sunni 
+		size = 1176
+	 } 
+	clergymen = {
+		culture = indian_muslim
+		religion =  sunni 
+		size = 23535
+	 } 
+	artisans = {
+		culture = indian_muslim
+		religion =  sunni 
+		size = 4134
+	 } 
+	farmers = {
+		culture = indian_muslim
+		religion =  sunni 
+		size = 29993
+	 } 
+	farmers = {
+		culture = indian
+		religion =  hindu 
+		size = 1035245
+	 } 
+	farmers = {
+		culture = indian
+		religion = secularism
+		size = 23829
+	 } 
+}
+#Warangal - Terangala (4680000/1170000 POPS)
+1287 = {
+	clergymen = {
+		culture = telegu
+		religion =  hindu 
+		size = 22873
+	 } 
+	clergymen = {
+		culture = telegu
+		religion = secularism
+		size = 526
+	 } 
+	farmers = {
+		culture = telegu
+		religion =  hindu 
+		size = 983560
+	 } 
+	farmers = {
+		culture = telegu
+		religion = secularism
+		size = 22639
+	 } 
+	farmers = {
+		culture = indian_shia
+		religion =  shiite 
+		size = 140400
 	 } 
 }

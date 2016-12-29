@@ -2,35 +2,55 @@ owner = FRA
 controller = FRA
 add_core = FRA
 trade_goods = grain
-life_rating = 35
+life_rating = 27
 terrain = hilly_farmland
 railroad = 1
 colonial = 0
 state_building = {
-	level = 2
+	level = 1
 	building = glass_factory
 	upgrade = yes
 }
 state_building = {
-	level = 2
+	level = 1
+	building = weaponry_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = automobiles_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = aeroplane_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
 	building = optics_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = coal_fuel_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = aluminium_factory
 	upgrade = yes
 }
 1992.1.1 = {
 owner = FRA
 controller = FRA
 add_core = FRA
-life_rating = 35
+life_rating = 17
 railroad = 2
 colonial = 0
 state_building = {
 	level = 1
-	building = inorganic_chemicals_factory
-	upgrade = yes
-}
-state_building = {
-	level = 1
-	building = communication_factory
+	building = heating_electricity_factory
 	upgrade = yes
 }
 state_building = {

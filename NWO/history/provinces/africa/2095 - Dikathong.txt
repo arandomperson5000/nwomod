@@ -1,14 +1,17 @@
 owner = SAF
 controller = SAF
 add_core = SAF
+add_core = BOP
 trade_goods = grain
-life_rating = 15
+life_rating = 30
 terrain = desert
+railroad = 1
 colonial = 0
 1992.1.1 = {
-owner = SAF
-controller = SAF
+owner = BOP
+controller = BOP
 add_core = SAF
-life_rating = 15
+add_core = BOP
+life_rating = 22
 colonial = 0
 }

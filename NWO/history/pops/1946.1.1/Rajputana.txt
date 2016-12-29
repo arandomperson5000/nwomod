@@ -1,531 +1,254 @@
-#Jaisalmer - Jaisalmer (281000/70250 POPS)
+#Ajmer - Ajmer (4642000/1160500 POPS)
+1264 = {
+	clergymen = {
+		culture = indian
+		religion =  hindu 
+		size = 22687
+	 } 
+	clergymen = {
+		culture = indian
+		religion = secularism
+		size = 522
+	 } 
+	farmers = {
+		culture = indian
+		religion =  hindu 
+		size = 1111700
+	 } 
+	farmers = {
+		culture = indian
+		religion = secularism
+		size = 25589
+	 } 
+}
+#Jaisalmer - Jaisalmer (320000/80000 POPS)
 1265 = {
-	officers = {
-		culture = indian
-		religion =  hindu 
-		size = 136
-	 } 
-	officers = {
-		culture = indian
-		religion = secularism
-		size = 3
-	 } 
-	soldiers = {
-		culture = indian
-		religion =  hindu 
-		size = 549
-	 } 
-	soldiers = {
-		culture = indian
-		religion = secularism
-		size = 12
-	 } 
-	aristocrats = {
-		culture = indian
-		religion =  hindu 
-		size = 2746
-	 } 
-	aristocrats = {
-		culture = indian
-		religion = secularism
-		size = 63
-	 } 
-	bureaucrats = {
-		culture = indian
-		religion =  hindu 
-		size = 68
-	 } 
-	bureaucrats = {
-		culture = indian
-		religion = secularism
-		size = 1
-	 } 
 	clergymen = {
 		culture = indian
 		religion =  hindu 
-		size = 1373
+		size = 1564
 	 } 
 	clergymen = {
 		culture = indian
 		religion = secularism
-		size = 31
-	 } 
-	artisans = {
-		culture = indian
-		religion =  hindu 
-		size = 754
-	 } 
-	artisans = {
-		culture = indian
-		religion = secularism
-		size = 17
+		size = 36
 	 } 
 	farmers = {
 		culture = indian
 		religion =  hindu 
-		size = 52739
+		size = 64906
 	 } 
 	farmers = {
 		culture = indian
 		religion = secularism
-		size = 1213
+		size = 1494
 	 } 
 	farmers = {
 		culture = indian_muslim
 		religion =  sunni 
-		size = 10537
+		size = 12000
 	 } 
 }
-#Jodhpur - Jodhpur (4610000/1152500 POPS)
+#Jodhpur - Jodhpur (5262000/1315500 POPS)
 1266 = {
-	officers = {
-		culture = indian
-		religion =  hindu 
-		size = 2253
-	 } 
-	officers = {
-		culture = indian
-		religion = secularism
-		size = 51
-	 } 
-	soldiers = {
-		culture = indian
-		religion =  hindu 
-		size = 9012
-	 } 
-	soldiers = {
-		culture = indian
-		religion = secularism
-		size = 207
-	 } 
-	aristocrats = {
-		culture = indian
-		religion =  hindu 
-		size = 45062
-	 } 
-	aristocrats = {
-		culture = indian
-		religion = secularism
-		size = 1037
-	 } 
-	bureaucrats = {
-		culture = indian
-		religion =  hindu 
-		size = 1126
-	 } 
-	bureaucrats = {
-		culture = indian
-		religion = secularism
-		size = 25
-	 } 
 	clergymen = {
 		culture = indian
 		religion =  hindu 
-		size = 22531
+		size = 25718
 	 } 
 	clergymen = {
 		culture = indian
 		religion = secularism
-		size = 518
-	 } 
-	artisans = {
-		culture = indian
-		religion =  hindu 
-		size = 12389
-	 } 
-	artisans = {
-		culture = indian
-		religion = secularism
-		size = 285
+		size = 591
 	 } 
 	farmers = {
 		culture = indian
 		religion =  hindu 
-		size = 1034193
+		size = 1260183
 	 } 
 	farmers = {
 		culture = indian
 		religion = secularism
-		size = 23804
+		size = 29006
 	 } 
 }
-#Bikaner - Bikaner (3411000/852750 POPS)
+#Bikaner - Bikaner (3893000/973250 POPS)
 1267 = {
-	officers = {
-		culture = indian
-		religion =  hindu 
-		size = 1666
-	 } 
-	officers = {
-		culture = indian
-		religion = secularism
-		size = 38
-	 } 
-	soldiers = {
-		culture = indian
-		religion =  hindu 
-		size = 6668
-	 } 
-	soldiers = {
-		culture = indian
-		religion = secularism
-		size = 153
-	 } 
-	aristocrats = {
-		culture = indian
-		religion =  hindu 
-		size = 33342
-	 } 
-	aristocrats = {
-		culture = indian
-		religion = secularism
-		size = 767
-	 } 
-	bureaucrats = {
-		culture = indian
-		religion =  hindu 
-		size = 832
-	 } 
-	bureaucrats = {
-		culture = indian
-		religion = secularism
-		size = 19
-	 } 
 	clergymen = {
 		culture = indian
 		religion =  hindu 
-		size = 16671
+		size = 19027
 	 } 
 	clergymen = {
 		culture = indian
 		religion = secularism
-		size = 383
-	 } 
-	artisans = {
-		culture = indian
-		religion =  hindu 
-		size = 9166
-	 } 
-	artisans = {
-		culture = indian
-		religion = secularism
-		size = 211
+		size = 437
 	 } 
 	farmers = {
 		culture = indian
 		religion =  hindu 
-		size = 681858
+		size = 837189
 	 } 
 	farmers = {
 		culture = indian
 		religion = secularism
-		size = 15694
+		size = 19270
 	 } 
 	farmers = {
 		culture = sikh
 		religion =  sikh 
-		size = 41677
+		size = 47567
 	 } 
 	farmers = {
 		culture = sikh
 		religion = secularism
-		size = 959
+		size = 1094
 	 } 
 	farmers = {
 		culture = indian_muslim
 		religion =  sunni 
-		size = 42637
+		size = 48662
 	 } 
 }
-#Jaipur - Jaipur (5579000/1394750 POPS)
+#Jaipur - Jaipur (6368000/1592000 POPS)
 1268 = {
 	officers = {
 		culture = indian
 		religion =  hindu 
-		size = 2726
+		size = 4094
 	 } 
 	officers = {
-		culture = indian
-		religion = secularism
-		size = 62
-	 } 
-	soldiers = {
-		culture = indian
-		religion =  hindu 
-		size = 10906
-	 } 
-	soldiers = {
-		culture = indian
-		religion = secularism
-		size = 251
-	 } 
-	aristocrats = {
-		culture = indian
-		religion =  hindu 
-		size = 54534
-	 } 
-	aristocrats = {
-		culture = indian
-		religion = secularism
-		size = 1255
-	 } 
-	bureaucrats = {
-		culture = indian
-		religion =  hindu 
-		size = 1362
-	 } 
-	bureaucrats = {
-		culture = indian
-		religion = secularism
-		size = 31
-	 } 
-	clergymen = {
-		culture = indian
-		religion =  hindu 
-		size = 27267
-	 } 
-	clergymen = {
-		culture = indian
-		religion = secularism
-		size = 627
-	 } 
-	artisans = {
-		culture = indian
-		religion =  hindu 
-		size = 14993
-	 } 
-	artisans = {
-		culture = indian
-		religion = secularism
-		size = 345
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 1251576
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 28808
-	 } 
-}
-#Udaipur - Udaipur (4400000/1100000 POPS)
-1269 = {
-	officers = {
-		culture = indian
-		religion =  hindu 
-		size = 2150
-	 } 
-	officers = {
-		culture = indian
-		religion = secularism
-		size = 49
-	 } 
-	soldiers = {
-		culture = indian
-		religion =  hindu 
-		size = 8602
-	 } 
-	soldiers = {
-		culture = indian
-		religion = secularism
-		size = 198
-	 } 
-	aristocrats = {
-		culture = indian
-		religion =  hindu 
-		size = 43010
-	 } 
-	aristocrats = {
-		culture = indian
-		religion = secularism
-		size = 990
-	 } 
-	bureaucrats = {
-		culture = indian
-		religion =  hindu 
-		size = 1075
-	 } 
-	bureaucrats = {
-		culture = indian
-		religion = secularism
-		size = 24
-	 } 
-	clergymen = {
-		culture = indian
-		religion =  hindu 
-		size = 21505
-	 } 
-	clergymen = {
-		culture = indian
-		religion = secularism
-		size = 495
-	 } 
-	artisans = {
-		culture = indian
-		religion =  hindu 
-		size = 11824
-	 } 
-	artisans = {
-		culture = indian
-		religion = secularism
-		size = 272
-	 } 
-	farmers = {
-		culture = indian
-		religion =  hindu 
-		size = 987082
-	 } 
-	farmers = {
-		culture = indian
-		religion = secularism
-		size = 22720
-	 } 
-}
-#Tayimba - Kota (2091000/522750 POPS)
-2656 = {
-	officers = {
-		culture = indian
-		religion =  hindu 
-		size = 1021
-	 } 
-	officers = {
-		culture = indian
-		religion = secularism
-		size = 23
-	 } 
-	soldiers = {
-		culture = indian
-		religion =  hindu 
-		size = 4087
-	 } 
-	soldiers = {
 		culture = indian
 		religion = secularism
 		size = 94
 	 } 
+	soldiers = {
+		culture = indian
+		religion =  hindu 
+		size = 77809
+	 } 
+	soldiers = {
+		culture = indian
+		religion = secularism
+		size = 1791
+	 } 
 	aristocrats = {
 		culture = indian
 		religion =  hindu 
-		size = 20439
+		size = 62247
 	 } 
 	aristocrats = {
 		culture = indian
 		religion = secularism
-		size = 470
+		size = 1432
 	 } 
 	bureaucrats = {
 		culture = indian
 		religion =  hindu 
-		size = 510
+		size = 1556
 	 } 
 	bureaucrats = {
 		culture = indian
 		religion = secularism
-		size = 11
+		size = 35
 	 } 
 	clergymen = {
 		culture = indian
 		religion =  hindu 
-		size = 10219
+		size = 31123
 	 } 
 	clergymen = {
 		culture = indian
 		religion = secularism
-		size = 235
+		size = 716
 	 } 
 	artisans = {
 		culture = indian
 		religion =  hindu 
-		size = 5619
+		size = 5232
 	 } 
 	artisans = {
 		culture = indian
 		religion = secularism
-		size = 129
+		size = 120
 	 } 
 	farmers = {
 		culture = indian
 		religion =  hindu 
-		size = 469089
+		size = 702872
 	 } 
 	farmers = {
 		culture = indian
 		religion = secularism
-		size = 10797
+		size = 702872
 	 } 
 }
-#Surinda - Bharatpur (4182000/1045500 POPS)
+#Udaipur - Udaipur (5022000/1255500 POPS)
+1269 = {
+	clergymen = {
+		culture = indian
+		religion =  hindu 
+		size = 24545
+	 } 
+	clergymen = {
+		culture = indian
+		religion = secularism
+		size = 564
+	 } 
+	farmers = {
+		culture = indian
+		religion =  hindu 
+		size = 1202706
+	 } 
+	farmers = {
+		culture = indian
+		religion = secularism
+		size = 27683
+	 } 
+}
+#Tayimba - Kota (2387000/596750 POPS)
+2656 = {
+	clergymen = {
+		culture = indian
+		religion =  hindu 
+		size = 11666
+	 } 
+	clergymen = {
+		culture = indian
+		religion = secularism
+		size = 268
+	 } 
+	farmers = {
+		culture = indian
+		religion =  hindu 
+		size = 571656
+	 } 
+	farmers = {
+		culture = indian
+		religion = secularism
+		size = 13158
+	 } 
+}
+#Surinda - Bharatpur (4774000/1193500 POPS)
 2701 = {
-	officers = {
-		culture = indian
-		religion =  hindu 
-		size = 2043
-	 } 
-	officers = {
-		culture = indian
-		religion = secularism
-		size = 47
-	 } 
-	soldiers = {
-		culture = indian
-		religion =  hindu 
-		size = 8175
-	 } 
-	soldiers = {
-		culture = indian
-		religion = secularism
-		size = 188
-	 } 
-	aristocrats = {
-		culture = indian
-		religion =  hindu 
-		size = 40879
-	 } 
-	aristocrats = {
-		culture = indian
-		religion = secularism
-		size = 940
-	 } 
-	bureaucrats = {
-		culture = indian
-		religion =  hindu 
-		size = 1021
-	 } 
-	bureaucrats = {
-		culture = indian
-		religion = secularism
-		size = 23
-	 } 
 	clergymen = {
 		culture = indian
 		religion =  hindu 
-		size = 20439
+		size = 23332
 	 } 
 	clergymen = {
 		culture = indian
 		religion = secularism
-		size = 470
-	 } 
-	artisans = {
-		culture = indian
-		religion =  hindu 
-		size = 11239
-	 } 
-	artisans = {
-		culture = indian
-		religion = secularism
-		size = 258
+		size = 537
 	 } 
 	farmers = {
 		culture = indian
 		religion =  hindu 
-		size = 938177
+		size = 1143313
 	 } 
 	farmers = {
 		culture = indian
 		religion = secularism
-		size = 21594
+		size = 26316
 	 } 
 }

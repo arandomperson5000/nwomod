@@ -2,15 +2,25 @@ owner = NET
 controller = NET
 add_core = NET
 trade_goods = fish
-life_rating = 35
+life_rating = 31
 terrain = good_farmland
 railroad = 1
 colonial = 0
+state_building = {
+	level = 2
+	building = coal_fuel_factory
+	upgrade = yes
+}
 1992.1.1 = {
 owner = NET
 controller = NET
 add_core = NET
-life_rating = 35
+life_rating = 15
 railroad = 1
 colonial = 0
+state_building = {
+	level = 2
+	building = heating_electricity_factory
+	upgrade = yes
+}
 }

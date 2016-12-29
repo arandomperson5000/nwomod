@@ -119,8 +119,6 @@ country_event = {
 		months = 12
 	}
 
-	immediate = { clr_country_flag = accept_differances_in_gov_by_democracy }
-
 	option = {
 		name = EVT_19002_A
 		sphere_owner = { country_event = 19003 }
@@ -155,8 +153,6 @@ country_event = {
 	mean_time_to_happen = {
 		months = 12
 	}
-
-	immediate = { clr_country_flag = accept_differances_in_gov_by_democracy }
 
 	option = {
 		name = EVT_19002_A
@@ -330,7 +326,14 @@ country_event = { # Demand install democracy
 	option = {
 		name = EVT_19004_B
 		set_country_flag = soi_demand_install
-		government = democracy country_event = 800044
+		random_country = { 
+			limit = { government = absolute_monarchy }
+			government = hms_government country_event = 800054
+		}
+		random_country = { 
+			limit = { NOT = { government = absolute_monarchy } }
+			government = democracy country_event = 800044
+		}
 		ai_chance = { factor = 0.5 }
 	}
 }
@@ -408,25 +411,19 @@ province_event = {
 			is_greater_power = yes
 		}
 		is_colonial = yes
-		NOT = {
-			life_rating = 25
-			has_global_flag = botanical_expedition_in_progress
-		}
+		life_rating = 40
+		NOT = { has_global_flag = botanical_expedition_in_progress }
 	}
 
 	mean_time_to_happen = {
 		months = 500
 		modifier = {
 			factor = 0.8
-			NOT = {
-				life_rating = 20
-			}
+			life_rating = 40
 		}
 		modifier = {
 			factor = 0.9
-			NOT = {
-				life_rating = 25
-			}
+			life_rating = 35
 		}
 		modifier = {
 			factor = 1.5
@@ -761,7 +758,7 @@ country_event = {
 	immediate = { 
 		great_wars_enabled = yes
 		set_global_flag = great_wars_enabled
-		set_global_flag = NWO_v1_07 # TODO change with a new version
+		set_global_flag = NWO_v1_11 # TODO change with a new version
 	}
 	
 	option = {
@@ -776,7 +773,7 @@ country_event = {
 		USA = { remove_accepted_culture = german } # due to literacy Vic2 mod limitations
 		FRA = { remove_accepted_culture = german }
 		SPA = { remove_accepted_culture = catalan remove_accepted_culture = basque }
-		RUS = { remove_accepted_culture = german remove_accepted_culture= estonian remove_accepted_culture = latvian remove_accepted_culture = lithuanian }
+		SUN = { remove_accepted_culture = german remove_accepted_culture= estonian remove_accepted_culture = latvian remove_accepted_culture = lithuanian }
 		GBR = { remove_accepted_culture = german }
 	}
 }
@@ -806,7 +803,7 @@ country_event = {
                                 political_reform = none_voting
                                 political_reform = ruling_party_opinion
                                 political_reform = state_religion
-                                political_reform = quality_of_service
+                                political_reform = criminology_classical_school
                                 political_reform = censored_publishing
                                 political_reform = gender_role_based
                                 political_reform = parties_not_allowed
@@ -863,7 +860,7 @@ country_event = {
                                 political_reform = none_voting
                                 political_reform = ruling_party_opinion
                                 political_reform = state_religion
-                                political_reform = quality_of_service
+                                political_reform = criminology_classical_school
                                 political_reform = censored_publishing
                                 political_reform = gender_role_based
                                 political_reform = parties_not_allowed
@@ -920,7 +917,7 @@ country_event = {
                                 political_reform = none_voting
                                 political_reform = ruling_party_opinion
                                 political_reform = state_religion
-                                political_reform = quality_of_service
+                                political_reform = criminology_classical_school
                                 political_reform = censored_publishing
                                 political_reform = gender_role_based
                                 political_reform = parties_not_allowed
@@ -1140,7 +1137,7 @@ country_event = {
                                 political_reform = none_voting
                                 political_reform = ruling_party_opinion
                                 political_reform = state_religion
-                                political_reform = quality_of_service
+                                political_reform = criminology_classical_school
                                 political_reform = censored_publishing
                                 political_reform = gender_role_based
                                 political_reform = parties_not_allowed
@@ -1292,7 +1289,7 @@ country_event = {
 	trigger = {
 		year = 1946
 		NOT = { year = 1947 }
-		tag = RUS
+		tag = SUN
 	}
 
 	immediate = {
@@ -1540,17 +1537,30 @@ country_event = {
 	desc = "EVTDESC19380"
 	picture = "nuclear_peace"
 
-	major = yes
+	trigger = { 
+		national_provinces_occupied = 0.08
+		OR = { 
+			#has_country_modifier = has_the_atomic_bomb
+			has_country_modifier = nuclear_weapon_power
+			AND = { has_country_modifier = alliance_nato USA = { has_country_modifier = nuclear_weapon_power } }
+			AND = { has_country_modifier = rio_pact USA = { has_country_modifier = nuclear_weapon_power } }
+			AND = { has_country_modifier = warsaw_pact SUN = { has_country_modifier = nuclear_weapon_power } }
+			AND = { has_country_modifier = csto_alliance RUS = { has_country_modifier = nuclear_weapon_power } }
+			AND = { has_country_modifier = anzus_alliance USA = { has_country_modifier = nuclear_weapon_power } }
+			AND = { has_country_modifier = sco_pact CHI = { has_country_modifier = nuclear_weapon_power } }
+		}
+	}
 	
-	is_triggered_only = yes # victorious attacker of nuclear/nuclear umbrella country
-	# FROM attacked country
-
-	immediate = {
-		end_war = FROM
+	mean_time_to_happen = {
+		months = 1
 	}
 	
 	option = {
 		name = "EVTOPTA19380"
+		any_country = { 
+			limit = { war_with = THIS }
+			country_event = 19384
+		}
 	}
 
 }
@@ -1633,6 +1643,20 @@ country_event = {
 
 }
 
+country_event = {
+	id = 19384
+	title = "EVTNAME19384"
+	desc = "EVTDESC19384"
+	picture = "nuclear_peace"
+
+	is_triggered_only = yes 
+	# FROM attacked country
+	
+	option = {
+		name = "EVTOPTA19384"
+	}
+	
+}
 #################################################################################
 #																				#
 #          These events deal with new governments after a gov change war		#

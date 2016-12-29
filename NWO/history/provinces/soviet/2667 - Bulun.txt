@@ -3,14 +3,15 @@ controller = SAF
 add_core = SAF
 add_core = GZA
 trade_goods = cattle
-life_rating = 15
+life_rating = 63
 terrain = plains
+railroad = 1
 colonial = 0
 1992.1.1 = {
 owner = GZA
 controller = GZA
 add_core = SAF
 add_core = GZA
-life_rating = 15
+life_rating = 33
 colonial = 0
 }

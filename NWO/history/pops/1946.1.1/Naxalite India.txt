@@ -1,229 +1,180 @@
-#Chhatarpur - Bundelkhand (1147000/286750 POPS)
+#Bhopal - Madhya Pradesh (6931000/1732750 POPS)
+1272 = {
+	clergymen = {
+		culture = indian
+		religion =  hindu 
+		size = 33875
+	 } 
+	clergymen = {
+		culture = indian
+		religion = secularism
+		size = 779
+	 } 
+	farmers = {
+		culture = indian
+		religion =  hindu 
+		size = 849047
+	 } 
+	farmers = {
+		culture = indian
+		religion = secularism
+		size = 849047
+	 } 
+}
+#Chhatarpur - Bundelkhand (1310000/327500 POPS)
 1273 = {
 	officers = {
 		culture = indian
 		religion =  hindu 
-		size = 560
+		size = 3201
 	 } 
 	officers = {
 		culture = indian
 		religion = secularism
-		size = 12
+		size = 73
 	 } 
 	soldiers = {
 		culture = indian
 		religion =  hindu 
-		size = 2242
+		size = 60824
 	 } 
 	soldiers = {
 		culture = indian
 		religion = secularism
-		size = 51
+		size = 1400
 	 } 
 	aristocrats = {
 		culture = indian
 		religion =  hindu 
-		size = 11211
+		size = 12805
 	 } 
 	aristocrats = {
 		culture = indian
 		religion = secularism
-		size = 258
+		size = 294
 	 } 
 	bureaucrats = {
 		culture = indian
 		religion =  hindu 
-		size = 279
+		size = 319
 	 } 
 	bureaucrats = {
 		culture = indian
 		religion = secularism
-		size = 6
+		size = 7
 	 } 
 	clergymen = {
 		culture = indian
 		religion =  hindu 
-		size = 5605
+		size = 6402
 	 } 
 	clergymen = {
 		culture = indian
 		religion = secularism
-		size = 129
+		size = 147
 	 } 
 	artisans = {
 		culture = indian
 		religion =  hindu 
-		size = 3082
+		size = 908
 	 } 
 	artisans = {
 		culture = indian
 		religion = secularism
-		size = 70
+		size = 20
 	 } 
 	farmers = {
 		culture = indian
 		religion =  hindu 
-		size = 237694
+		size = 213260
 	 } 
 	farmers = {
 		culture = indian
 		religion = secularism
-		size = 5471
+		size = 4908
 	 } 
 	farmers = {
 		culture = indian_muslim
 		religion =  sunni 
-		size = 20072
+		size = 22925
 	 } 
 }
-#Rewali - Bundelkhand (1147000/286750 POPS)
+#Rewali - Bundelkhand (1310000/327500 POPS)
 1274 = {
-	officers = {
-		culture = indian
-		religion =  hindu 
-		size = 560
-	 } 
-	officers = {
-		culture = indian
-		religion = secularism
-		size = 12
-	 } 
-	soldiers = {
-		culture = indian
-		religion =  hindu 
-		size = 2242
-	 } 
-	soldiers = {
-		culture = indian
-		religion = secularism
-		size = 51
-	 } 
-	aristocrats = {
-		culture = indian
-		religion =  hindu 
-		size = 11211
-	 } 
-	aristocrats = {
-		culture = indian
-		religion = secularism
-		size = 258
-	 } 
-	bureaucrats = {
-		culture = indian
-		religion =  hindu 
-		size = 279
-	 } 
-	bureaucrats = {
-		culture = indian
-		religion = secularism
-		size = 6
-	 } 
 	clergymen = {
 		culture = indian
 		religion =  hindu 
-		size = 5605
+		size = 6402
 	 } 
 	clergymen = {
 		culture = indian
 		religion = secularism
-		size = 129
-	 } 
-	artisans = {
-		culture = indian
-		religion =  hindu 
-		size = 3082
-	 } 
-	artisans = {
-		culture = indian
-		religion = secularism
-		size = 70
+		size = 147
 	 } 
 	farmers = {
 		culture = indian
 		religion =  hindu 
-		size = 237694
+		size = 291319
 	 } 
 	farmers = {
 		culture = indian
 		religion = secularism
-		size = 5471
+		size = 6705
 	 } 
 	farmers = {
 		culture = indian_muslim
 		religion =  sunni 
-		size = 20072
+		size = 22925
 	 } 
 }
-#Raigarh - Chhattisgarh (2671000/667750 POPS)
-1282 = {
-	officers = {
-		culture = indian
-		religion =  hindu 
-		size = 1304
-	 } 
-	officers = {
-		culture = indian
-		religion = secularism
-		size = 30
-	 } 
-	soldiers = {
-		culture = indian
-		religion =  hindu 
-		size = 5221
-	 } 
-	soldiers = {
-		culture = indian
-		religion = secularism
-		size = 120
-	 } 
-	aristocrats = {
-		culture = indian
-		religion =  hindu 
-		size = 26109
-	 } 
-	aristocrats = {
-		culture = indian
-		religion = secularism
-		size = 600
-	 } 
-	bureaucrats = {
-		culture = indian
-		religion =  hindu 
-		size = 651
-	 } 
-	bureaucrats = {
-		culture = indian
-		religion = secularism
-		size = 15
-	 } 
+#Jubulpore - Madhya Pradesh (6931000/1732750 POPS)
+1275 = {
 	clergymen = {
 		culture = indian
 		religion =  hindu 
-		size = 13054
+		size = 33875
 	 } 
 	clergymen = {
 		culture = indian
 		religion = secularism
-		size = 300
-	 } 
-	artisans = {
-		culture = indian
-		religion =  hindu 
-		size = 7177
-	 } 
-	artisans = {
-		culture = indian
-		religion = secularism
-		size = 165
+		size = 779
 	 } 
 	farmers = {
 		culture = indian
 		religion =  hindu 
-		size = 599205
+		size = 693099
 	 } 
 	farmers = {
 		culture = indian
 		religion = secularism
-		size = 13792
+		size = 693099
+	 } 
+	farmers = {
+		culture = indian_muslim
+		religion =  sunni 
+		size = 311895
+	 } 
+}
+#Hoshangabad - Madhya Pradesh (6931000/1732750 POPS)
+1276 = {
+	clergymen = {
+		culture = indian
+		religion =  hindu 
+		size = 33875
+	 } 
+	clergymen = {
+		culture = indian
+		religion = secularism
+		size = 779
+	 } 
+	farmers = {
+		culture = indian
+		religion =  hindu 
+		size = 849047
+	 } 
+	farmers = {
+		culture = indian
+		religion = secularism
+		size = 849047
 	 } 
 }

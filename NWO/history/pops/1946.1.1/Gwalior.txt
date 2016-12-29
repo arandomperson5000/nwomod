@@ -1,78 +1,78 @@
-#Gwalior - Madhya Pradesh (6072000/1518000 POPS)
+#Gwalior - Madhya Pradesh (6931000/1732750 POPS)
 1270 = {
 	officers = {
 		culture = indian
 		religion =  hindu 
-		size = 2967
+		size = 846
 	 } 
 	officers = {
 		culture = indian
 		religion = secularism
-		size = 68
+		size = 19
 	 } 
 	soldiers = {
 		culture = indian
 		religion =  hindu 
-		size = 11870
+		size = 16090
 	 } 
 	soldiers = {
 		culture = indian
 		religion = secularism
-		size = 273
+		size = 370
 	 } 
 	aristocrats = {
 		culture = indian
 		religion =  hindu 
-		size = 59353
+		size = 67750
 	 } 
 	aristocrats = {
 		culture = indian
 		religion = secularism
-		size = 1366
+		size = 1559
 	 } 
 	bureaucrats = {
 		culture = indian
 		religion =  hindu 
-		size = 1483
+		size = 1693
 	 } 
 	bureaucrats = {
 		culture = indian
 		religion = secularism
-		size = 34
+		size = 38
 	 } 
 	clergymen = {
 		culture = indian
 		religion =  hindu 
-		size = 29676
+		size = 33875
 	 } 
 	clergymen = {
 		culture = indian
 		religion = secularism
-		size = 683
+		size = 779
 	 } 
 	artisans = {
 		culture = indian
 		religion =  hindu 
-		size = 16318
+		size = 5951
 	 } 
 	artisans = {
 		culture = indian
 		religion = secularism
-		size = 375
+		size = 136
 	 } 
 	farmers = {
 		culture = indian
 		religion =  hindu 
-		size = 1273142
+		size = 749836
 	 } 
 	farmers = {
 		culture = indian
 		religion = secularism
-		size = 29305
+		size = 749836
 	 } 
 	farmers = {
 		culture = indian_muslim
 		religion =  sunni 
-		size = 91080
+		size = 103965
 	 } 
 }

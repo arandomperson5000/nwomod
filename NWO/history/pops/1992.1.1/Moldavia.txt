@@ -1,114 +1,34 @@
 #Shoyna - Shoyna (206000/51500 POPS)
 2589 = {
-	officers = {
-		culture = romanian
-		religion =  orthodox 
-		size = 121
-	 } 
-	officers = {
-		culture = romanian
-		religion = secularism
-		size = 32
-	 } 
-	soldiers = {
-		culture = romanian
-		religion =  orthodox 
-		size = 488
-	 } 
-	soldiers = {
-		culture = romanian
-		religion = secularism
-		size = 129
-	 } 
-	aristocrats = {
-		culture = romanian
-		religion =  orthodox 
-		size = 1424
-	 } 
-	aristocrats = {
-		culture = romanian
-		religion = secularism
-		size = 378
-	 } 
-	aristocrats = {
-		culture = gagauz
-		religion =  orthodox 
-		size = 203
-	 } 
-	aristocrats = {
-		culture = gagauz
-		religion = secularism
-		size = 53
-	 } 
-	bureaucrats = {
-		culture = gagauz
-		religion =  orthodox 
-		size = 81
-	 } 
-	bureaucrats = {
-		culture = gagauz
-		religion = secularism
-		size = 21
-	 } 
-	capitalists = {
-		culture = gagauz
-		religion =  orthodox 
-		size = 203
-	 } 
-	capitalists = {
-		culture = gagauz
-		religion = secularism
-		size = 53
-	 } 
 	clergymen = {
-		culture = gagauz
+		culture = romanian
 		religion =  orthodox 
 		size = 813
 	 } 
 	clergymen = {
-		culture = gagauz
+		culture = romanian
 		religion = secularism
 		size = 216
 	 } 
-	clerks = {
-		culture = gagauz
+	farmers = {
+		culture = romanian
 		religion =  orthodox 
-		size = 713
+		size = 1220
 	 } 
-	clerks = {
-		culture = gagauz
+	farmers = {
+		culture = romanian
 		religion = secularism
-		size = 189
-	 } 
-	artisans = {
-		culture = gagauz
-		religion =  orthodox 
-		size = 677
-	 } 
-	artisans = {
-		culture = gagauz
-		religion = secularism
-		size = 179
-	 } 
-	craftsmen = {
-		culture = gagauz
-		religion =  orthodox 
-		size = 2140
-	 } 
-	craftsmen = {
-		culture = gagauz
-		religion = secularism
-		size = 568
+		size = 324
 	 } 
 	farmers = {
 		culture = gagauz
 		religion =  orthodox 
-		size = 28530
+		size = 33361
 	 } 
 	farmers = {
 		culture = gagauz
 		religion = secularism
-		size = 7583
+		size = 8868
 	 } 
 	farmers = {
 		culture = bulgarian
@@ -146,22 +66,22 @@
 	officers = {
 		culture = romanian
 		religion =  orthodox 
-		size = 2471
+		size = 853
 	 } 
 	officers = {
 		culture = romanian
 		religion = secularism
-		size = 657
+		size = 226
 	 } 
 	soldiers = {
 		culture = romanian
 		religion =  orthodox 
-		size = 9889
+		size = 16219
 	 } 
 	soldiers = {
 		culture = romanian
 		religion = secularism
-		size = 2628
+		size = 4311
 	 } 
 	aristocrats = {
 		culture = romanian
@@ -206,42 +126,42 @@
 	clerks = {
 		culture = romanian
 		religion =  orthodox 
-		size = 14430
+		size = 14346
 	 } 
 	clerks = {
 		culture = romanian
 		religion = secularism
-		size = 3835
+		size = 3813
 	 } 
 	artisans = {
 		culture = romanian
 		religion =  orthodox 
-		size = 13708
+		size = 13629
 	 } 
 	artisans = {
 		culture = romanian
 		religion = secularism
-		size = 3644
+		size = 3622
 	 } 
 	craftsmen = {
 		culture = romanian
 		religion =  orthodox 
-		size = 43291
+		size = 43039
 	 } 
 	craftsmen = {
 		culture = romanian
 		religion = secularism
-		size = 11507
+		size = 11440
 	 } 
 	farmers = {
 		culture = romanian
 		religion =  orthodox 
-		size = 560604
+		size = 556308
 	 } 
 	farmers = {
 		culture = romanian
 		religion = secularism
-		size = 149021
+		size = 147879
 	 } 
 	farmers = {
 		culture = ukrainian

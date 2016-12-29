@@ -7,17 +7,24 @@ country_event = {
 
 	option = {
 		name = EVT_1014800_A
-		any_owned = { limit = { is_core = ISI } secede_province = ISI }
-		all_core = { limit = { pop_majority_religion = sunni } add_core = ISI remove_province_modifier = salafi_movement }
+		random_state = {
+			limit = {
+				NOT = { any_owned_province = { is_capital = yes } }
+				any_owned_province = {
+					is_core = ISI
+				}
+			}
+			any_owned = {
+				limit = { is_core = ISI }
+				secede_province = ISI
+			}
+		}
 		casus_belli = {
 			target = ISI
 			type = acquire_core_state
 			months = 60
 		}
-		war = {
-			target = ISI
-			attacker_goal = { casus_belli = humiliate }
-		}
+		war = ISI
 	}
 }
 

@@ -23,13 +23,20 @@ objectTypes = {
 		
 		scale = 0.75
 	}
-		
-	billboardType = {
+	
+	EMFXActorType = {
 		name = "building_naval_base"
-		textureFile = "gfx\interface\building_navalbase_empty.tga"
-		noOfFrames = 1
-		scale = 0
+		actorfile = "gfx\anims\Port_Empty.xac"
+		idle   = "gfx\anims\Port_Animation.xsm"
+		scale = 0.75
 	}
+	
+#	billboardType = {
+#		name = "building_naval_base"
+#		textureFile = "gfx\interface\building_navalbase_empty.tga"
+#		noOfFrames = 1
+#		scale = 0
+#	}
 	
 	billboardType = {
 		name = "building_naval_base_ships"
@@ -144,52 +151,46 @@ objectTypes = {
 		scale = 0.75
 	}
 	
-	EMFXActorType = {
+	billboardType = {
 		name = "building_fort"
-		actorfile = "gfx\anims\Fort_Late.xac"
-		
-		idle   = "gfx\anims\static.xsm"
-		scale = 1.0
+		textureFile = "gfx\interface\building_airport.dds"
+		noOfFrames = 1
+		scale = 2.5	
 	}
 	
-	EMFXActorType = {
+	billboardType = {
 		name = "building_fort2"
-		actorfile = "gfx\anims\Fort_Late.xac"
-		
-		idle   = "gfx\anims\static.xsm"
-		scale = 1.0
+		textureFile = "gfx\interface\building_airport.dds"
+		noOfFrames = 1	
+		scale = 2.5
 	}
-	
-	EMFXActorType = {
+
+	billboardType = {
 		name = "building_fort3"
-		actorfile = "gfx\anims\Fort_Late.xac"
-		
-		idle   = "gfx\anims\static.xsm"
-		scale = 1.0
+		textureFile = "gfx\interface\building_airport.dds"
+		noOfFrames = 1	
+		scale = 2.5
 	}
-	
-	EMFXActorType = {
+
+	billboardType = {
 		name = "building_fort4"
-		actorfile = "gfx\anims\Fort_Late.xac"
-		
-		idle   = "gfx\anims\static.xsm"
-		scale = 1.0
+		textureFile = "gfx\interface\building_airport.dds"
+		noOfFrames = 1	
+		scale = 2.5
 	}
-	
-	EMFXActorType = {
+
+	billboardType = {
 		name = "building_fort5"
-		actorfile = "gfx\anims\Fort_Late.xac"
-		
-		idle   = "gfx\anims\static.xsm"
-		scale = 1.0
+		textureFile = "gfx\interface\building_airport.dds"
+		noOfFrames = 1	
+		scale = 2.5
 	}
-	
-		EMFXActorType = {
+
+	billboardType = {
 		name = "building_fort6"
-		actorfile = "gfx\anims\Fort_Late.xac"
-		
-		idle   = "gfx\anims\static.xsm"
-		scale = 1.0
+		textureFile = "gfx\interface\building_airport.dds"
+		noOfFrames = 1	
+		scale = 2.5
 	}
 	
 	EMFXActorType = {

@@ -1,103 +1,23 @@
-#Kular - Venda (263000/65750 POPS)
+#Kular - Venda (264000/66000 POPS)
 2652 = {
-	officers = {
-		culture = venda
-		religion =  protestant 
-		size = 52
-	 } 
-	officers = {
-		culture = venda
-		religion = secularism
-		size = 78
-	 } 
-	soldiers = {
-		culture = venda
-		religion =  protestant 
-		size = 210
-	 } 
-	soldiers = {
-		culture = venda
-		religion = secularism
-		size = 315
-	 } 
-	aristocrats = {
-		culture = venda
-		religion =  protestant 
-		size = 920
-	 } 
-	aristocrats = {
-		culture = venda
-		religion = secularism
-		size = 1380
-	 } 
-	bureaucrats = {
-		culture = venda
-		religion =  protestant 
-		size = 105
-	 } 
-	bureaucrats = {
-		culture = venda
-		religion = secularism
-		size = 157
-	 } 
-	capitalists = {
-		culture = venda
-		religion =  protestant 
-		size = 157
-	 } 
-	capitalists = {
-		culture = venda
-		religion = secularism
-		size = 236
-	 } 
 	clergymen = {
 		culture = venda
 		religion =  protestant 
-		size = 526
+		size = 528
 	 } 
 	clergymen = {
 		culture = venda
 		religion = secularism
-		size = 789
-	 } 
-	clerks = {
-		culture = venda
-		religion =  protestant 
-		size = 603
-	 } 
-	clerks = {
-		culture = venda
-		religion = secularism
-		size = 905
-	 } 
-	artisans = {
-		culture = venda
-		religion =  protestant 
-		size = 573
-	 } 
-	artisans = {
-		culture = venda
-		religion = secularism
-		size = 859
-	 } 
-	craftsmen = {
-		culture = venda
-		religion =  protestant 
-		size = 1811
-	 } 
-	craftsmen = {
-		culture = venda
-		religion = secularism
-		size = 2716
+		size = 792
 	 } 
 	farmers = {
 		culture = venda
 		religion =  protestant 
-		size = 21340
+		size = 25872
 	 } 
 	farmers = {
 		culture = venda
 		religion = secularism
-		size = 32010
+		size = 38808
 	 } 
 }

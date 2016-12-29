@@ -1,176 +1,154 @@
-#Cochin - Cochin (6528000/1632000 POPS)
-1318 = {
-	officers = {
-		culture = malayalam
-		religion =  hindu 
-		size = 3190
-	 } 
-	officers = {
-		culture = malayalam
-		religion = secularism
-		size = 73
-	 } 
-	soldiers = {
-		culture = malayalam
-		religion =  hindu 
-		size = 12762
-	 } 
-	soldiers = {
-		culture = malayalam
-		religion = secularism
-		size = 293
-	 } 
-	aristocrats = {
-		culture = malayalam
-		religion =  hindu 
-		size = 63811
-	 } 
-	aristocrats = {
-		culture = malayalam
-		religion = secularism
-		size = 1468
-	 } 
-	bureaucrats = {
-		culture = malayalam
-		religion =  hindu 
-		size = 1595
-	 } 
-	bureaucrats = {
-		culture = malayalam
-		religion = secularism
-		size = 36
-	 } 
+#Calicut - Calicut (5653000/1413250 POPS)
+1317 = {
 	clergymen = {
 		culture = malayalam
 		religion =  hindu 
-		size = 31905
+		size = 27629
 	 } 
 	clergymen = {
 		culture = malayalam
 		religion = secularism
-		size = 734
-	 } 
-	artisans = {
-		culture = malayalam
-		religion =  hindu 
-		size = 17544
-	 } 
-	artisans = {
-		culture = malayalam
-		religion = secularism
-		size = 403
+		size = 635
 	 } 
 	farmers = {
 		culture = malayalam
 		religion =  hindu 
-		size = 906122
+		size = 842685
 	 } 
 	farmers = {
 		culture = malayalam
 		religion = secularism
-		size = 20857
-	 } 
-	farmers = {
-		culture = christian_malayalam
-		religion =  orthodox 
-		size = 398820
-	 } 
-	farmers = {
-		culture = christian_malayalam
-		religion = secularism
-		size = 9180
+		size = 19396
 	 } 
 	farmers = {
 		culture = indian_muslim
 		religion =  sunni 
-		size = 163200
+		size = 522902
 	 } 
 }
-#Trivandrum - Trivandrum (2482000/620500 POPS)
+#Cochin - Cochin (7451000/1862750 POPS)
+1318 = {
+	clergymen = {
+		culture = malayalam
+		religion =  hindu 
+		size = 36416
+	 } 
+	clergymen = {
+		culture = malayalam
+		religion = secularism
+		size = 838
+	 } 
+	farmers = {
+		culture = malayalam
+		religion =  hindu 
+		size = 1147127
+	 } 
+	farmers = {
+		culture = malayalam
+		religion = secularism
+		size = 26404
+	 } 
+	farmers = {
+		culture = christian_malayalam
+		religion =  orthodox 
+		size = 455209
+	 } 
+	farmers = {
+		culture = christian_malayalam
+		religion = secularism
+		size = 10477
+	 } 
+	farmers = {
+		culture = indian_muslim
+		religion =  sunni 
+		size = 186275
+	 } 
+}
+#Trivandrum - Trivandrum (2833000/708250 POPS)
 1319 = {
 	officers = {
 		culture = malayalam
 		religion =  hindu 
-		size = 1213
+		size = 2036
 	 } 
 	officers = {
 		culture = malayalam
 		religion = secularism
-		size = 27
+		size = 46
 	 } 
 	soldiers = {
 		culture = malayalam
 		religion =  hindu 
-		size = 4852
+		size = 38687
 	 } 
 	soldiers = {
 		culture = malayalam
 		religion = secularism
-		size = 111
+		size = 890
 	 } 
 	aristocrats = {
 		culture = malayalam
 		religion =  hindu 
-		size = 24261
+		size = 27692
 	 } 
 	aristocrats = {
 		culture = malayalam
 		religion = secularism
-		size = 558
+		size = 637
 	 } 
 	bureaucrats = {
 		culture = malayalam
 		religion =  hindu 
-		size = 606
+		size = 692
 	 } 
 	bureaucrats = {
 		culture = malayalam
 		religion = secularism
-		size = 13
+		size = 15
 	 } 
 	clergymen = {
 		culture = malayalam
 		religion =  hindu 
-		size = 12130
+		size = 13846
 	 } 
 	clergymen = {
 		culture = malayalam
 		religion = secularism
-		size = 279
+		size = 318
 	 } 
 	artisans = {
 		culture = malayalam
 		religion =  hindu 
-		size = 6670
+		size = 2311
 	 } 
 	artisans = {
 		culture = malayalam
 		religion = secularism
-		size = 153
+		size = 53
 	 } 
 	farmers = {
 		culture = malayalam
 		religion =  hindu 
-		size = 71573
+		size = 53196
 	 } 
 	farmers = {
 		culture = malayalam
 		religion = secularism
-		size = 1647
+		size = 1224
 	 } 
 	farmers = {
 		culture = christian_malayalam
 		religion =  orthodox 
-		size = 260811
+		size = 297694
 	 } 
 	farmers = {
 		culture = christian_malayalam
 		religion = secularism
-		size = 6003
+		size = 6852
 	 } 
 	farmers = {
 		culture = indian_muslim
 		religion =  sunni 
-		size = 229585
+		size = 262052
 	 } 
 }
