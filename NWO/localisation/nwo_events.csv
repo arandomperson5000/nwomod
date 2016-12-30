@@ -13555,6 +13555,7 @@ EVT_32528_A;Sign the Khasav-Yurt Accord.;;;;;;;;;;;;;x;;;;
 EVT_32528_B;Launch a new offensive to recapture Chechnya from the rebels.;;;;;;;;;;;;;x;;;;
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 EVT_8014731_NAME;The Fertile Crescent Plan;;;;;;;;;;;;;x;;;;
 EVT_8014731_DESC;The Fertile Crescent Plan was an Iraqi Hashemite proposal for the union of the Kingdom of Iraq with Mandatory Syria, Mandatory Lebanon, Mandatory Palestine, and Transjordan. Nuri as-Said, prime minister of Iraq, presented the plan to British officials during World War II, when it appeared that France had become too weak to hold on to Syria. The plan faced opposition from various groups within Syria including the National Party which didn't want wish to live under a monarchy or enter a pro-British alliance while other factions such as the People's Pary favoured it, the plan never came into fruition as a result of this opposition and any faint hope remaining for the Fertile Crescent Plan ended with the overthrow of the Iraqi monarchy in July 1958. However aspirations to unite the Fertile Crescent states continue to exist.;;;;;;;;;;;;;x;;;;
 EVT_8014731_A;Implement the Plan in agreement with Jordan.;;;;;;;;;;;;;x;;;;
@@ -13584,6 +13585,12 @@ EVT_8014737_A;Annex all of Lebanon.;;;;;;;;;;;;;x;;;;
 EVT_8014737_B;Give Lebanon autonomy with its current borders unchanged.;;;;;;;;;;;;;x;;;;
 EVT_8014737_C;Give Lebanon autonomy with its territory reduced to the borders of the former Mount Lebanon Mutasarrifate.;;;;;;;;;;;;;x;;;;
 EVT_8014737_D;Refuse the offer.;;;;;;;;;;;;;x;;;;
+=======
+EVT_1014206_NAME;Budapest Memorandum on Security Assurances;;;;;;;;;;;;;x;;;;
+EVT_1014206_DESC;The Budapest Memorandum on Security Assurances refers to three identical political agreements signed at the OSCE conference in Budapest, Hungary on 5 December 1994, providing security assurances by its signatories relating to Belarus's, Kazakhstan's and Ukraine's accession to the Treaty on the Non-Proliferation of Nuclear Weapons. The Memorandum was originally signed by three nuclear powers, the Russian Federation, the United States of America, and the United Kingdom. China and France gave somewhat weaker individual assurances in separate documents.# EVT_1014206_A;Support our Russian Brothers and Sisters;;;;;;;;;;;;;x;;;;
+EVT_1014206_A;Trust the guarantees;;;;;;;;;;;;;x;;;;
+EVT_1014206_B;No Russia can't be trusted;;;;;;;;;;;;;x;;;;
+>>>>>>> parent of 65a2b3a... t
 =======
 EVT_1014206_NAME;Budapest Memorandum on Security Assurances;;;;;;;;;;;;;x;;;;
 EVT_1014206_DESC;The Budapest Memorandum on Security Assurances refers to three identical political agreements signed at the OSCE conference in Budapest, Hungary on 5 December 1994, providing security assurances by its signatories relating to Belarus's, Kazakhstan's and Ukraine's accession to the Treaty on the Non-Proliferation of Nuclear Weapons. The Memorandum was originally signed by three nuclear powers, the Russian Federation, the United States of America, and the United Kingdom. China and France gave somewhat weaker individual assurances in separate documents.# EVT_1014206_A;Support our Russian Brothers and Sisters;;;;;;;;;;;;;x;;;;
