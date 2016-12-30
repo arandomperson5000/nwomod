@@ -3,45 +3,20 @@
 	clergymen = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 3088
-	 } 
-	clergymen = {
-		culture = sunni_arab
-		religion = secularism
-		size = 31
+		size = 3120
 	 } 
 	farmers = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 151351
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion = secularism
-		size = 1528
+		size = 152880
 	 } 
 }
 #Ghayda - Ghayda (62000/15500 POPS)
 1175 = {
-	clergymen = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 306
-	 } 
-	clergymen = {
-		culture = sunni_arab
-		religion = secularism
-		size = 3
-	 } 
 	farmers = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 15038
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion = secularism
-		size = 151
+		size = 15190
 	 } 
 }
 #Bayda - Bayda (670000/167500 POPS)
@@ -49,22 +24,12 @@
 	clergymen = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 3316
-	 } 
-	clergymen = {
-		culture = sunni_arab
-		religion = secularism
-		size = 33
+		size = 3350
 	 } 
 	farmers = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 154217
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion = secularism
-		size = 1557
+		size = 155775
 	 } 
 	farmers = {
 		culture = shia_arab
@@ -77,22 +42,12 @@
 	clergymen = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 103
-	 } 
-	clergymen = {
-		culture = sunni_arab
-		religion = secularism
-		size = 1
+		size = 105
 	 } 
 	farmers = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 5093
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion = secularism
-		size = 51
+		size = 5145
 	 } 
 }
 #Sana - Sana (4708000/1177000 POPS)
@@ -100,102 +55,52 @@
 	officers = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 9103
-	 } 
-	officers = {
-		culture = sunni_arab
-		religion = secularism
-		size = 91
+		size = 9195
 	 } 
 	soldiers = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 172967
-	 } 
-	soldiers = {
-		culture = sunni_arab
-		religion = secularism
-		size = 1747
+		size = 174715
 	 } 
 	aristocrats = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 46609
-	 } 
-	aristocrats = {
-		culture = sunni_arab
-		religion = secularism
-		size = 470
+		size = 47080
 	 } 
 	bureaucrats = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 1165
-	 } 
-	bureaucrats = {
-		culture = sunni_arab
-		religion = secularism
-		size = 11
+		size = 1177
 	 } 
 	capitalists = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 5826
-	 } 
-	capitalists = {
-		culture = sunni_arab
-		religion = secularism
-		size = 58
+		size = 5885
 	 } 
 	clergymen = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 23304
-	 } 
-	clergymen = {
-		culture = sunni_arab
-		religion = secularism
-		size = 235
+		size = 23540
 	 } 
 	clerks = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 11863
-	 } 
-	clerks = {
-		culture = sunni_arab
-		religion = secularism
-		size = 119
+		size = 11983
 	 } 
 	artisans = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 11270
-	 } 
-	artisans = {
-		culture = sunni_arab
-		religion = secularism
-		size = 113
+		size = 11384
 	 } 
 	craftsmen = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 35591
-	 } 
-	craftsmen = {
-		culture = sunni_arab
-		religion = secularism
-		size = 359
+		size = 35951
 	 } 
 	farmers = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 43520
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion = secularism
-		size = 439
+		size = 43960
 	 } 
 	farmers = {
 		culture = shia_arab
@@ -208,22 +113,12 @@
 	clergymen = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 6806
-	 } 
-	clergymen = {
-		culture = sunni_arab
-		religion = secularism
-		size = 68
+		size = 6875
 	 } 
 	farmers = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 333506
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion = secularism
-		size = 3368
+		size = 336875
 	 } 
 }
 #Taizz - Taizz (4209000/1052250 POPS)
@@ -231,22 +126,12 @@
 	clergymen = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 20834
-	 } 
-	clergymen = {
-		culture = sunni_arab
-		religion = secularism
-		size = 210
+		size = 21045
 	 } 
 	farmers = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 625036
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion = secularism
-		size = 6313
+		size = 631350
 	 } 
 	farmers = {
 		culture = shia_arab
@@ -259,111 +144,46 @@
 	officers = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 1849
-	 } 
-	officers = {
-		culture = sunni_arab
-		religion = secularism
-		size = 18
+		size = 1868
 	 } 
 	soldiers = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 35143
-	 } 
-	soldiers = {
-		culture = sunni_arab
-		religion = secularism
-		size = 354
+		size = 35498
 	 } 
 	aristocrats = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 7365
-	 } 
-	aristocrats = {
-		culture = sunni_arab
-		religion = secularism
-		size = 74
-	 } 
-	bureaucrats = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 184
-	 } 
-	bureaucrats = {
-		culture = sunni_arab
-		religion = secularism
-		size = 1
-	 } 
-	capitalists = {
-		culture = sunni_arab
-		religion =  sunni 
-		size = 920
-	 } 
-	capitalists = {
-		culture = sunni_arab
-		religion = secularism
-		size = 9
+		size = 7440
 	 } 
 	clergymen = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 3682
-	 } 
-	clergymen = {
-		culture = sunni_arab
-		religion = secularism
-		size = 37
+		size = 3720
 	 } 
 	clerks = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 1775
-	 } 
-	clerks = {
-		culture = sunni_arab
-		religion = secularism
-		size = 17
+		size = 1793
 	 } 
 	artisans = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 1685
-	 } 
-	artisans = {
-		culture = sunni_arab
-		religion = secularism
-		size = 17
+		size = 1703
 	 } 
 	craftsmen = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 5326
-	 } 
-	craftsmen = {
-		culture = sunni_arab
-		religion = secularism
-		size = 53
+		size = 5380
 	 } 
 	farmers = {
 		culture = sunni_arab
 		religion =  sunni 
-		size = 117000
-	 } 
-	farmers = {
-		culture = sunni_arab
-		religion = secularism
-		size = 1181
+		size = 118182
 	 } 
 	farmers = {
 		culture = somali
 		religion =  sunni 
-		size = 9207
-	 } 
-	farmers = {
-		culture = somali
-		religion = secularism
-		size = 93
+		size = 9300
 	 } 
 }

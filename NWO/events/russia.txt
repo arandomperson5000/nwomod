@@ -109,13 +109,11 @@ country_event = {
 		tag = RUS
 		year = 1999
 		exists = CHC
-		exists = DAG
 		NOT = { truce_with = CHC }
-		NOT = { year = 2000 }
 		NOT = { government = proletarian_dictatorship }
 	}
 	
-	mean_time_to_happen = { months = 8 }
+	mean_time_to_happen = { months = 2 }
 
 	option = {
 		name = EVT_32504_A
@@ -166,7 +164,6 @@ country_event = {
 		name = EVT_32505_B
 		prestige = -40
 		# EVT_32505_B;Leave matters as they are. Devolve our Caucasus realm.
-		release_vassal = CHC
 		ai_chance = { factor = 0 }
 	}
 }
@@ -253,7 +250,6 @@ country_event = {
 	option = {
 		name = EVT_32508_A 
 		# EVT_32505_A;Defend our country!
-		any_pop = { militancy = -5.0 consciousness = -2.0 }
 	}
 }
 
@@ -1982,6 +1978,7 @@ country_event = {
     }
         
 }
+<<<<<<< HEAD
 
 country_event = {
 	id = 32526
@@ -2114,3 +2111,5 @@ country_event = {
 	}
 }
 
+=======
+>>>>>>> parent of 1b46832... Second Chechen War, Dagestan War and Caucasus Emirate #826

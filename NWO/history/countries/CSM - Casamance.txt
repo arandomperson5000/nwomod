@@ -1,5 +1,6 @@
 capital = 1788
-primary_culture = jola
+primary_culture = black_french
+culture = serer
 religion = secularism
 government = democracy
 plurality = 3.0
